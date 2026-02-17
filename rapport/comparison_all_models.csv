@@ -1,0 +1,4 @@
+Modèle,Accuracy,F1-Weighted,F1-Macro,Temps (min),Paramètres
+Logistic Regression,0.585,0.5092,0.3818,2,~10K
+BiLSTM + Attention,0.71,0.5092,0.3818,15,~500K
+BERT Fine-tuned,0.7266666666666667,0.6282239780144281,0.4820794686820108,30,110M

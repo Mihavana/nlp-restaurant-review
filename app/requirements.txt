@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+plotly
+scikit-learn     # Baseline
+torch            # BiLSTM
+transformers     # BERT
+accelerate       # BERT

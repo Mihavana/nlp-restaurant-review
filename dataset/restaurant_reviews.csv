@@ -1,0 +1,1001 @@
+review_id,text,aspects,sentiments,rating
+R0001,"Amazing cuisine, the steak was cooked to perfection. The service was impeccable, quick and professional.","food,service","positive,positive",5
+R0002,Poor cleanliness. The bathroom was disgusting. Great deals and fair prices.,"cleanliness,price","negative,positive",3
+R0003,"Wonderful ambiance, perfect for a date night. Not worth the price at all. Very expensive.","ambiance,price","positive,negative",3
+R0004,Best salad I've ever had. The flavors were incredible.,food,positive,5
+R0005,"Outstanding customer service. Our waiter was amazing. Standard pricing, what you'd expect.","service,price","positive,neutral",5
+R0006,Superb taste! The seafood was fresh and flavorful. Great value for money! Very affordable prices.,"food,price","positive,positive",4
+R0007,Superb taste! The seafood was fresh and flavorful. Poor ambiance. The place felt cramped and stuffy.,"food,ambiance","positive,negative",3
+R0008,"Outstanding food quality. The pasta dish was phenomenal. Cleanliness was acceptable, standard level. Love the decor and lighting. Very pleasant environment.","food,cleanliness,ambiance","positive,neutral,positive",5
+R0009,Great service throughout our meal. Very welcoming. Beautiful atmosphere! The restaurant has a cozy and romantic ambiance.,"service,ambiance","positive,positive",5
+R0010,Way too expensive for what you get. Overpriced.,price,negative,2
+R0011,Poor cleanliness. The bathroom was disgusting. Great deals and fair prices. Very unpleasant environment. Too loud to have a conversation.,"cleanliness,price,ambiance","negative,positive,negative",1
+R0012,Pristine conditions. Bathrooms were immaculate. Outstanding customer service. Our waiter was amazing.,"cleanliness,service","positive,positive",4
+R0013,Bad lighting and uncomfortable seating. Not pleasant.,ambiance,negative,1
+R0014,Pristine conditions. Bathrooms were immaculate. Outstanding customer service. Our waiter was amazing.,"cleanliness,service","positive,positive",5
+R0015,"Amazing cuisine, the seafood was cooked to perfection.",food,positive,5
+R0016,"Wonderful staff, very accommodating and helpful. Wonderful ambiance, perfect for a date night.","service,ambiance","positive,positive",4
+R0017,"Affordable and worth every penny. Wonderful ambiance, perfect for a date night.","price,ambiance","positive,positive",5
+R0018,"Average atmosphere, nothing special about the decor. Poor customer service. Staff was unprofessional.","ambiance,service","neutral,negative",1
+R0019,Great deals and fair prices.,price,positive,5
+R0020,"Affordable and worth every penny. Wonderful ambiance, perfect for a date night.","price,ambiance","positive,positive",4
+R0021,The food was absolutely delicious! pasta highly recommend the I. Stunning interior design. Very comfortable setting. Worst service ever. They forgot our order twice.,"food,ambiance,service","positive,positive,negative",5
+R0022,Food was not fresh at all. The pasta made me sick.,food,negative,2
+R0023,Very clean restaurant. Everything was spotless. Love the decor and lighting. Very pleasant environment.,"cleanliness,ambiance","positive,positive",4
+R0024,"Love the decor and lighting. Very pleasant environment. Average cleanliness, nothing concerning.","ambiance,cleanliness","positive,neutral",5
+R0025,"The service was impeccable, quick and professional. Way too expensive for what you get. Overpriced. Overcooked and tasteless. The pasta was inedible.","service,price,food","positive,negative,negative",1
+R0026,"Best pasta I've ever had. The flavors were incredible. Excellent hygiene standards. Very well maintained. Wonderful ambiance, perfect for a date night.","food,cleanliness,ambiance","positive,positive,positive",5
+R0027,The atmosphere was warm and inviting. Great music too.,ambiance,positive,5
+R0028,Pristine conditions. Bathrooms were immaculate. Rude staff and long wait times. Very frustrating.,"cleanliness,service","positive,negative",3
+R0029,Affordable and worth every penny. The food was disappointing. The risotto was cold and bland.,"price,food","positive,negative",3
+R0030,The food was disappointing. The salad was cold and bland.,food,negative,2
+R0031,"Superb taste! The pasta was fresh and flavorful. Very reasonable pricing. Good bang for your buck. Standard ambiance, neither good nor bad.","food,price,ambiance","positive,positive,neutral",5
+R0032,Excellent hygiene standards. Very well maintained.,cleanliness,positive,5
+R0033,Best pizza I've ever had. The flavors were incredible. Dirty tables and floors. Very unhygienic.,"food,cleanliness","positive,negative",3
+R0034,Excellent hygiene standards. Very well maintained. Ridiculously overpriced. Poor value for money. Great service throughout our meal. Very welcoming.,"cleanliness,price,service","positive,negative,positive",4
+R0035,Poor ambiance. The place felt cramped and stuffy.,ambiance,negative,2
+R0036,Great value for money! Very affordable prices.,price,positive,4
+R0037,"Wonderful ambiance, perfect for a date night. The food was absolutely delicious! risotto highly recommend the I. Affordable and worth every penny.","ambiance,food,price","positive,positive,positive",5
+R0038,Poor ambiance. The place felt cramped and stuffy.,ambiance,negative,1
+R0039,"Very reasonable pricing. Good bang for your buck. Amazing cuisine, the risotto was cooked to perfection. Beautiful atmosphere! The restaurant has a cozy and romantic ambiance.","price,food,ambiance","positive,positive,positive",5
+R0040,Great value for money! Very affordable prices.,price,positive,5
+R0041,Poor customer service. Staff was unprofessional.,service,negative,1
+R0042,Great deals and fair prices. The atmosphere was warm and inviting. Great music too.,"price,ambiance","positive,positive",4
+R0043,Impeccably clean environment. Very hygienic.,cleanliness,positive,5
+R0044,"Amazing cuisine, the steak was cooked to perfection. Beautiful atmosphere! The restaurant has a cozy and romantic ambiance.","food,ambiance","positive,positive",5
+R0045,Excellent prices for the quality you get. Very clean restaurant. Everything was spotless.,"price,cleanliness","positive,positive",5
+R0046,Average service. Staff was polite but not very attentive. Superb taste! The risotto was fresh and flavorful.,"service,food","neutral,positive",4
+R0047,"Excellent prices for the quality you get. Amazing cuisine, the pizza was cooked to perfection.","price,food","positive,positive",4
+R0048,Very reasonable pricing. Good bang for your buck. Terrible hygiene. The place was filthy. Great service throughout our meal. Very welcoming.,"price,cleanliness,service","positive,negative,positive",4
+R0049,Worst service ever. They forgot our order twice.,service,negative,1
+R0050,Terrible service. The waiter was rude and inattentive. Beautiful atmosphere! The restaurant has a cozy and romantic ambiance.,"service,ambiance","negative,positive",3
+R0051,"Wonderful ambiance, perfect for a date night. Wonderful staff, very accommodating and helpful.","ambiance,service","positive,positive",5
+R0052,"Fair prices, nothing remarkable. Impeccably clean environment. Very hygienic. Wonderful staff, very accommodating and helpful.","price,cleanliness,service","neutral,positive,positive",5
+R0053,Very dirty restaurant. Health code violations visible. Average service. Staff was polite but not very attentive.,"cleanliness,service","negative,neutral",1
+R0054,"Outstanding customer service. Our waiter was amazing. The food was okay, nothing special about the pizza.","service,food","positive,neutral",5
+R0055,"Awful atmosphere. Dark, dirty, and uncomfortable. Superb taste! The risotto was fresh and flavorful. Great service throughout our meal. Very welcoming.","ambiance,food,service","negative,positive,positive",5
+R0056,"Great deals and fair prices. Wonderful ambiance, perfect for a date night. The service was impeccable, quick and professional.","price,ambiance,service","positive,positive,positive",4
+R0057,Worst seafood I've ever eaten. Very disappointing. The ambiance was terrible. Too noisy and crowded.,"food,ambiance","negative,negative",2
+R0058,Rude staff and long wait times. Very frustrating.,service,negative,2
+R0059,Great service throughout our meal. Very welcoming.,service,positive,5
+R0060,Great value for money! Very affordable prices.,price,positive,5
+R0061,"The ambiance was okay, typical restaurant setting. Average taste. The burger was acceptable but not memorable.","ambiance,food","neutral,neutral",3
+R0062,Poor cleanliness. The bathroom was disgusting. The atmosphere was warm and inviting. Great music too.,"cleanliness,ambiance","negative,positive",3
+R0063,Very clean restaurant. Everything was spotless.,cleanliness,positive,5
+R0064,"Service was okay, nothing exceptional. Standard ambiance, neither good nor bad. The food was disappointing. The pizza was cold and bland.","service,ambiance,food","neutral,neutral,negative",1
+R0065,Excellent service! The staff was very attentive and friendly. Very clean restaurant. Everything was spotless. Excellent prices for the quality you get.,"service,cleanliness,price","positive,positive,positive",5
+R0066,"The service was impeccable, quick and professional. Impeccably clean environment. Very hygienic. Affordable and worth every penny.","service,cleanliness,price","positive,positive,positive",5
+R0067,Very slow service. We waited 45 minutes for our order. Way too expensive for what you get. Overpriced. Very clean restaurant. Everything was spotless.,"service,price,cleanliness","negative,negative,positive",1
+R0068,"Awful atmosphere. Dark, dirty, and uncomfortable. Amazing cuisine, the pizza was cooked to perfection. The service was impeccable, quick and professional.","ambiance,food,service","negative,positive,positive",5
+R0069,Dirty tables and floors. Very unhygienic. Stunning interior design. Very comfortable setting. Very slow service. We waited 45 minutes for our order.,"cleanliness,ambiance,service","negative,positive,negative",2
+R0070,"Best steak I've ever had. The flavors were incredible. The ambiance was okay, typical restaurant setting. Sparkling clean. You can tell they take cleanliness seriously.","food,ambiance,cleanliness","positive,neutral,positive",4
+R0071,"Beautiful atmosphere! The restaurant has a cozy and romantic ambiance. Wonderful staff, very accommodating and helpful.","ambiance,service","positive,positive",4
+R0072,Very unpleasant environment. Too loud to have a conversation.,ambiance,negative,1
+R0073,Ridiculously overpriced. Poor value for money.,price,negative,2
+R0074,Sparkling clean. You can tell they take cleanliness seriously.,cleanliness,positive,5
+R0075,Love the decor and lighting. Very pleasant environment.,ambiance,positive,4
+R0076,Pristine conditions. Bathrooms were immaculate. Prices are average for this type of restaurant.,"cleanliness,price","positive,neutral",4
+R0077,Excellent prices for the quality you get. Very slow service. We waited 45 minutes for our order. Not clean at all. Found hair in my food.,"price,service,cleanliness","positive,negative,negative",1
+R0078,Very reasonable pricing. Good bang for your buck. Excellent service! The staff was very attentive and friendly.,"price,service","positive,positive",5
+R0079,Affordable and worth every penny.,price,positive,4
+R0080,"Awful atmosphere. Dark, dirty, and uncomfortable. Excellent hygiene standards. Very well maintained.","ambiance,cleanliness","negative,positive",3
+R0081,Sparkling clean. You can tell they take cleanliness seriously. Very slow service. We waited 45 minutes for our order.,"cleanliness,service","positive,negative",3
+R0082,"Cleanliness was acceptable, standard level.",cleanliness,neutral,3
+R0083,The food was absolutely delicious! seafood highly recommend the I.,food,positive,4
+R0084,Outstanding food quality. The steak dish was phenomenal.,food,positive,5
+R0085,"Awful atmosphere. Dark, dirty, and uncomfortable. Excellent hygiene standards. Very well maintained. Affordable and worth every penny.","ambiance,cleanliness,price","negative,positive,positive",4
+R0086,Very clean restaurant. Everything was spotless. Rude staff and long wait times. Very frustrating. Outstanding food quality. The risotto dish was phenomenal.,"cleanliness,service,food","positive,negative,positive",5
+R0087,The atmosphere was warm and inviting. Great music too.,ambiance,positive,4
+R0088,Excellent service! The staff was very attentive and friendly. Pristine conditions. Bathrooms were immaculate.,"service,cleanliness","positive,positive",5
+R0089,"Standard restaurant food. The pasta was just fine. Wonderful ambiance, perfect for a date night. Wonderful staff, very accommodating and helpful.","food,ambiance,service","neutral,positive,positive",5
+R0090,Great deals and fair prices.,price,positive,4
+R0091,Excellent prices for the quality you get.,price,positive,5
+R0092,Dirty tables and floors. Very unhygienic. Great value for money! Very affordable prices.,"cleanliness,price","negative,positive",3
+R0093,"Wonderful ambiance, perfect for a date night. Very reasonable pricing. Good bang for your buck.","ambiance,price","positive,positive",5
+R0094,"The service was impeccable, quick and professional. The food was disappointing. The pasta was cold and bland.","service,food","positive,negative",3
+R0095,Excellent prices for the quality you get. Poor customer service. Staff was unprofessional.,"price,service","positive,negative",3
+R0096,Outstanding food quality. The seafood dish was phenomenal. Rude staff and long wait times. Very frustrating.,"food,service","positive,negative",3
+R0097,"Wonderful ambiance, perfect for a date night. Worst service ever. They forgot our order twice.","ambiance,service","positive,negative",3
+R0098,"Standard pricing, what you'd expect. Outstanding customer service. Our waiter was amazing.","price,service","neutral,positive",5
+R0099,Food was not fresh at all. The steak made me sick.,food,negative,2
+R0100,The ambiance was terrible. Too noisy and crowded. Outstanding customer service. Our waiter was amazing.,"ambiance,service","negative,positive",3
+R0101,Ridiculously overpriced. Poor value for money.,price,negative,1
+R0102,The food was absolutely delicious! pasta highly recommend the I.,food,positive,5
+R0103,"Wonderful staff, very accommodating and helpful. Not worth the price at all. Very expensive.","service,price","positive,negative",3
+R0104,"Standard ambiance, neither good nor bad. Excellent hygiene standards. Very well maintained.","ambiance,cleanliness","neutral,positive",5
+R0105,Excellent service! The staff was very attentive and friendly. Superb taste! The pasta was fresh and flavorful.,"service,food","positive,positive",5
+R0106,"Beautiful atmosphere! The restaurant has a cozy and romantic ambiance. The food was okay, nothing special about the salad.","ambiance,food","positive,neutral",5
+R0107,Great service throughout our meal. Very welcoming.,service,positive,5
+R0108,Very dirty restaurant. Health code violations visible. Best pizza I've ever had. The flavors were incredible.,"cleanliness,food","negative,positive",3
+R0109,The food was absolutely delicious! pizza highly recommend the I.,food,positive,5
+R0110,Average service. Staff was polite but not very attentive. Love the decor and lighting. Very pleasant environment.,"service,ambiance","neutral,positive",5
+R0111,The ambiance was terrible. Too noisy and crowded.,ambiance,negative,1
+R0112,Great deals and fair prices.,price,positive,4
+R0113,"Overcooked and tasteless. The salad was inedible. Standard pricing, what you'd expect.","food,price","negative,neutral",1
+R0114,Extremely expensive. Not worth it.,price,negative,1
+R0115,"Cleanliness was acceptable, standard level.",cleanliness,neutral,3
+R0116,Affordable and worth every penny. Worst burger I've ever eaten. Very disappointing.,"price,food","positive,negative",3
+R0117,Love the decor and lighting. Very pleasant environment. Way too expensive for what you get. Overpriced.,"ambiance,price","positive,negative",3
+R0118,"Amazing cuisine, the steak was cooked to perfection. Great value for money! Very affordable prices. Impeccably clean environment. Very hygienic.","food,price,cleanliness","positive,positive,positive",5
+R0119,Average taste. The seafood was acceptable but not memorable.,food,neutral,3
+R0120,Love the decor and lighting. Very pleasant environment. Very clean restaurant. Everything was spotless.,"ambiance,cleanliness","positive,positive",5
+R0121,"Wonderful ambiance, perfect for a date night. Outstanding food quality. The risotto dish was phenomenal.","ambiance,food","positive,positive",5
+R0122,Love the decor and lighting. Very pleasant environment.,ambiance,positive,5
+R0123,Very slow service. We waited 45 minutes for our order. Very reasonable pricing. Good bang for your buck.,"service,price","negative,positive",3
+R0124,Very slow service. We waited 45 minutes for our order.,service,negative,1
+R0125,"The atmosphere was warm and inviting. Great music too. Wonderful staff, very accommodating and helpful. Best risotto I've ever had. The flavors were incredible.","ambiance,service,food","positive,positive,positive",4
+R0126,"Very clean restaurant. Everything was spotless. Wonderful ambiance, perfect for a date night.","cleanliness,ambiance","positive,positive",5
+R0127,"Very reasonable pricing. Good bang for your buck. Amazing cuisine, the salad was cooked to perfection.","price,food","positive,positive",5
+R0128,"Standard service, nothing to complain about.",service,neutral,3
+R0129,The food was disappointing. The seafood was cold and bland. Dirty tables and floors. Very unhygienic.,"food,cleanliness","negative,negative",2
+R0130,Not worth the price at all. Very expensive. Very clean restaurant. Everything was spotless.,"price,cleanliness","negative,positive",3
+R0131,Stunning interior design. Very comfortable setting.,ambiance,positive,5
+R0132,Sparkling clean. You can tell they take cleanliness seriously.,cleanliness,positive,5
+R0133,Very reasonable pricing. Good bang for your buck. Impeccably clean environment. Very hygienic.,"price,cleanliness","positive,positive",4
+R0134,The food was absolutely delicious! salad highly recommend the I. Dirty tables and floors. Very unhygienic.,"food,cleanliness","positive,negative",3
+R0135,"Awful atmosphere. Dark, dirty, and uncomfortable. Outstanding customer service. Our waiter was amazing.","ambiance,service","negative,positive",3
+R0136,"The service was impeccable, quick and professional. Affordable and worth every penny. The food was absolutely delicious! risotto highly recommend the I.","service,price,food","positive,positive,positive",4
+R0137,Sparkling clean. You can tell they take cleanliness seriously. Terrible service. The waiter was rude and inattentive.,"cleanliness,service","positive,negative",3
+R0138,The food was absolutely delicious! risotto highly recommend the I.,food,positive,5
+R0139,"Extremely expensive. Not worth it. The service was impeccable, quick and professional.","price,service","negative,positive",3
+R0140,"Affordable and worth every penny. Very dirty restaurant. Health code violations visible. Awful atmosphere. Dark, dirty, and uncomfortable.","price,cleanliness,ambiance","positive,negative,negative",1
+R0141,Bad lighting and uncomfortable seating. Not pleasant. Great value for money! Very affordable prices.,"ambiance,price","negative,positive",3
+R0142,Pristine conditions. Bathrooms were immaculate. The ambiance was terrible. Too noisy and crowded.,"cleanliness,ambiance","positive,negative",3
+R0143,Dirty tables and floors. Very unhygienic.,cleanliness,negative,1
+R0144,Affordable and worth every penny. Pristine conditions. Bathrooms were immaculate.,"price,cleanliness","positive,positive",5
+R0145,Very slow service. We waited 45 minutes for our order. Very reasonable pricing. Good bang for your buck. Poor cleanliness. The bathroom was disgusting.,"service,price,cleanliness","negative,positive,negative",1
+R0146,Rude staff and long wait times. Very frustrating. Stunning interior design. Very comfortable setting. Standard restaurant food. The pizza was just fine.,"service,ambiance,food","negative,positive,neutral",3
+R0147,The atmosphere was warm and inviting. Great music too. Poor customer service. Staff was unprofessional.,"ambiance,service","positive,negative",3
+R0148,"Standard service, nothing to complain about.",service,neutral,3
+R0149,"Service was okay, nothing exceptional. Excellent hygiene standards. Very well maintained.","service,cleanliness","neutral,positive",4
+R0150,Food was not fresh at all. The seafood made me sick. Stunning interior design. Very comfortable setting.,"food,ambiance","negative,positive",3
+R0151,The atmosphere was warm and inviting. Great music too. Great service throughout our meal. Very welcoming.,"ambiance,service","positive,positive",5
+R0152,Stunning interior design. Very comfortable setting.,ambiance,positive,4
+R0153,The food was disappointing. The pizza was cold and bland. Excellent hygiene standards. Very well maintained. Love the decor and lighting. Very pleasant environment.,"food,cleanliness,ambiance","negative,positive,positive",5
+R0154,"Wonderful staff, very accommodating and helpful. Best pasta I've ever had. The flavors were incredible. Wonderful ambiance, perfect for a date night.","service,food,ambiance","positive,positive,positive",4
+R0155,"Standard ambiance, neither good nor bad.",ambiance,neutral,3
+R0156,Too pricey for mediocre food. Poor customer service. Staff was unprofessional.,"price,service","negative,negative",2
+R0157,"The service was impeccable, quick and professional. Standard ambiance, neither good nor bad. Pristine conditions. Bathrooms were immaculate.","service,ambiance,cleanliness","positive,neutral,positive",5
+R0158,Too pricey for mediocre food. Sparkling clean. You can tell they take cleanliness seriously.,"price,cleanliness","negative,positive",3
+R0159,Pristine conditions. Bathrooms were immaculate. Poor ambiance. The place felt cramped and stuffy.,"cleanliness,ambiance","positive,negative",3
+R0160,"Standard ambiance, neither good nor bad.",ambiance,neutral,3
+R0161,The atmosphere was warm and inviting. Great music too.,ambiance,positive,4
+R0162,"Impeccably clean environment. Very hygienic. The service was impeccable, quick and professional.","cleanliness,service","positive,positive",5
+R0163,Best risotto I've ever had. The flavors were incredible.,food,positive,5
+R0164,Dirty tables and floors. Very unhygienic. Excellent service! The staff was very attentive and friendly. The atmosphere was warm and inviting. Great music too.,"cleanliness,service,ambiance","negative,positive,positive",5
+R0165,Beautiful atmosphere! The restaurant has a cozy and romantic ambiance. Very clean restaurant. Everything was spotless.,"ambiance,cleanliness","positive,positive",5
+R0166,Poor quality ingredients. My seafood tasted terrible. Affordable and worth every penny.,"food,price","negative,positive",3
+R0167,Excellent service! The staff was very attentive and friendly.,service,positive,4
+R0168,Overcooked and tasteless. The seafood was inedible. The atmosphere was warm and inviting. Great music too.,"food,ambiance","negative,positive",3
+R0169,The ambiance was terrible. Too noisy and crowded. Best pizza I've ever had. The flavors were incredible.,"ambiance,food","negative,positive",3
+R0170,Poor customer service. Staff was unprofessional.,service,negative,2
+R0171,"Wonderful staff, very accommodating and helpful. Excellent prices for the quality you get.","service,price","positive,positive",5
+R0172,Pristine conditions. Bathrooms were immaculate. Excellent service! The staff was very attentive and friendly.,"cleanliness,service","positive,positive",5
+R0173,Extremely expensive. Not worth it.,price,negative,1
+R0174,Beautiful atmosphere! The restaurant has a cozy and romantic ambiance. Superb taste! The pizza was fresh and flavorful.,"ambiance,food","positive,positive",5
+R0175,"Wonderful ambiance, perfect for a date night. Superb taste! The salad was fresh and flavorful. Excellent hygiene standards. Very well maintained.","ambiance,food,cleanliness","positive,positive,positive",5
+R0176,Poor cleanliness. The bathroom was disgusting. Superb taste! The burger was fresh and flavorful.,"cleanliness,food","negative,positive",3
+R0177,Very clean restaurant. Everything was spotless. Terrible service. The waiter was rude and inattentive.,"cleanliness,service","positive,negative",3
+R0178,The ambiance was terrible. Too noisy and crowded. Terrible hygiene. The place was filthy.,"ambiance,cleanliness","negative,negative",2
+R0179,"Amazing cuisine, the risotto was cooked to perfection. Great value for money! Very affordable prices.","food,price","positive,positive",5
+R0180,"Wonderful staff, very accommodating and helpful.",service,positive,5
+R0181,Worst service ever. They forgot our order twice. The atmosphere was warm and inviting. Great music too.,"service,ambiance","negative,positive",3
+R0182,Superb taste! The salad was fresh and flavorful. Beautiful atmosphere! The restaurant has a cozy and romantic ambiance.,"food,ambiance","positive,positive",4
+R0183,"Wonderful staff, very accommodating and helpful. Great deals and fair prices.","service,price","positive,positive",5
+R0184,Very unpleasant environment. Too loud to have a conversation. Affordable and worth every penny.,"ambiance,price","negative,positive",3
+R0185,Poor quality ingredients. My risotto tasted terrible. Stunning interior design. Very comfortable setting.,"food,ambiance","negative,positive",3
+R0186,"Not worth the price at all. Very expensive. Amazing cuisine, the pizza was cooked to perfection.","price,food","negative,positive",3
+R0187,Terrible hygiene. The place was filthy. Poor customer service. Staff was unprofessional.,"cleanliness,service","negative,negative",2
+R0188,Not worth the price at all. Very expensive. The ambiance was terrible. Too noisy and crowded. Terrible service. The waiter was rude and inattentive.,"price,ambiance,service","negative,negative,negative",2
+R0189,Rude staff and long wait times. Very frustrating. Too pricey for mediocre food.,"service,price","negative,negative",2
+R0190,Pristine conditions. Bathrooms were immaculate. Beautiful atmosphere! The restaurant has a cozy and romantic ambiance. Great value for money! Very affordable prices.,"cleanliness,ambiance,price","positive,positive,positive",5
+R0191,Excellent service! The staff was very attentive and friendly. Excellent prices for the quality you get.,"service,price","positive,positive",5
+R0192,Love the decor and lighting. Very pleasant environment.,ambiance,positive,5
+R0193,Stunning interior design. Very comfortable setting. Great service throughout our meal. Very welcoming. Sparkling clean. You can tell they take cleanliness seriously.,"ambiance,service,cleanliness","positive,positive,positive",5
+R0194,Pristine conditions. Bathrooms were immaculate. Superb taste! The salad was fresh and flavorful.,"cleanliness,food","positive,positive",5
+R0195,Outstanding customer service. Our waiter was amazing. Affordable and worth every penny.,"service,price","positive,positive",4
+R0196,Excellent prices for the quality you get.,price,positive,5
+R0197,The atmosphere was warm and inviting. Great music too. Great deals and fair prices.,"ambiance,price","positive,positive",4
+R0198,"Average atmosphere, nothing special about the decor.",ambiance,neutral,3
+R0199,Stunning interior design. Very comfortable setting. Rude staff and long wait times. Very frustrating. Dirty tables and floors. Very unhygienic.,"ambiance,service,cleanliness","positive,negative,negative",2
+R0200,"The ambiance was okay, typical restaurant setting. Impeccably clean environment. Very hygienic.","ambiance,cleanliness","neutral,positive",5
+R0201,Overcooked and tasteless. The salad was inedible. Outstanding customer service. Our waiter was amazing.,"food,service","negative,positive",3
+R0202,Great value for money! Very affordable prices.,price,positive,4
+R0203,The food was disappointing. The burger was cold and bland. Terrible service. The waiter was rude and inattentive.,"food,service","negative,negative",1
+R0204,Great deals and fair prices. Terrible service. The waiter was rude and inattentive. Outstanding food quality. The burger dish was phenomenal.,"price,service,food","positive,negative,positive",4
+R0205,Impeccably clean environment. Very hygienic. Overcooked and tasteless. The pasta was inedible.,"cleanliness,food","positive,negative",3
+R0206,Great value for money! Very affordable prices. Terrible hygiene. The place was filthy.,"price,cleanliness","positive,negative",3
+R0207,Poor cleanliness. The bathroom was disgusting. Worst service ever. They forgot our order twice. Best burger I've ever had. The flavors were incredible.,"cleanliness,service,food","negative,negative,positive",2
+R0208,Too pricey for mediocre food. The atmosphere was warm and inviting. Great music too. Superb taste! The risotto was fresh and flavorful.,"price,ambiance,food","negative,positive,positive",5
+R0209,Poor ambiance. The place felt cramped and stuffy. Outstanding food quality. The salad dish was phenomenal.,"ambiance,food","negative,positive",3
+R0210,Outstanding food quality. The salad dish was phenomenal. Great service throughout our meal. Very welcoming.,"food,service","positive,positive",4
+R0211,Too pricey for mediocre food.,price,negative,1
+R0212,"The ambiance was okay, typical restaurant setting.",ambiance,neutral,3
+R0213,"Average cleanliness, nothing concerning. Best burger I've ever had. The flavors were incredible.","cleanliness,food","neutral,positive",5
+R0214,Average taste. The burger was acceptable but not memorable. Very unpleasant environment. Too loud to have a conversation. Very slow service. We waited 45 minutes for our order.,"food,ambiance,service","neutral,negative,negative",2
+R0215,"Excellent hygiene standards. Very well maintained. Wonderful ambiance, perfect for a date night. Outstanding food quality. The pizza dish was phenomenal.","cleanliness,ambiance,food","positive,positive,positive",5
+R0216,"Average atmosphere, nothing special about the decor. Great deals and fair prices. The service was impeccable, quick and professional.","ambiance,price,service","neutral,positive,positive",5
+R0217,The atmosphere was warm and inviting. Great music too.,ambiance,positive,4
+R0218,Very dirty restaurant. Health code violations visible. Great service throughout our meal. Very welcoming.,"cleanliness,service","negative,positive",3
+R0219,Impeccably clean environment. Very hygienic.,cleanliness,positive,5
+R0220,The food was absolutely delicious! seafood highly recommend the I. Very reasonable pricing. Good bang for your buck.,"food,price","positive,positive",4
+R0221,"Way too expensive for what you get. Overpriced. Wonderful staff, very accommodating and helpful.","price,service","negative,positive",3
+R0222,Bad lighting and uncomfortable seating. Not pleasant. Worst steak I've ever eaten. Very disappointing.,"ambiance,food","negative,negative",1
+R0223,Love the decor and lighting. Very pleasant environment. Great deals and fair prices.,"ambiance,price","positive,positive",4
+R0224,The food was absolutely delicious! risotto highly recommend the I.,food,positive,4
+R0225,"The ambiance was okay, typical restaurant setting.",ambiance,neutral,3
+R0226,Rude staff and long wait times. Very frustrating.,service,negative,1
+R0227,Worst salad I've ever eaten. Very disappointing.,food,negative,2
+R0228,"Very clean restaurant. Everything was spotless. Average atmosphere, nothing special about the decor.","cleanliness,ambiance","positive,neutral",5
+R0229,"The food was okay, nothing special about the salad.",food,neutral,3
+R0230,The food was disappointing. The salad was cold and bland. Impeccably clean environment. Very hygienic.,"food,cleanliness","negative,positive",3
+R0231,Excellent service! The staff was very attentive and friendly.,service,positive,5
+R0232,"Outstanding food quality. The risotto dish was phenomenal. Wonderful staff, very accommodating and helpful.","food,service","positive,positive",5
+R0233,Great service throughout our meal. Very welcoming. Poor quality ingredients. My burger tasted terrible.,"service,food","positive,negative",3
+R0234,Dirty tables and floors. Very unhygienic.,cleanliness,negative,2
+R0235,"Way too expensive for what you get. Overpriced. Reasonably clean, met basic standards.","price,cleanliness","negative,neutral",1
+R0236,Superb taste! The risotto was fresh and flavorful. Average service. Staff was polite but not very attentive. Beautiful atmosphere! The restaurant has a cozy and romantic ambiance.,"food,service,ambiance","positive,neutral,positive",5
+R0237,Very clean restaurant. Everything was spotless.,cleanliness,positive,4
+R0238,Impeccably clean environment. Very hygienic.,cleanliness,positive,4
+R0239,Great service throughout our meal. Very welcoming. The atmosphere was warm and inviting. Great music too. Pristine conditions. Bathrooms were immaculate.,"service,ambiance,cleanliness","positive,positive,positive",4
+R0240,Poor ambiance. The place felt cramped and stuffy. Overcooked and tasteless. The seafood was inedible.,"ambiance,food","negative,negative",2
+R0241,"The service was impeccable, quick and professional. Sparkling clean. You can tell they take cleanliness seriously.","service,cleanliness","positive,positive",5
+R0242,The ambiance was terrible. Too noisy and crowded. Very reasonable pricing. Good bang for your buck.,"ambiance,price","negative,positive",3
+R0243,Very reasonable pricing. Good bang for your buck. The food was absolutely delicious! risotto highly recommend the I.,"price,food","positive,positive",5
+R0244,The food was disappointing. The pizza was cold and bland. Poor ambiance. The place felt cramped and stuffy.,"food,ambiance","negative,negative",1
+R0245,Affordable and worth every penny.,price,positive,5
+R0246,Impeccably clean environment. Very hygienic. Affordable and worth every penny. Superb taste! The salad was fresh and flavorful.,"cleanliness,price,food","positive,positive,positive",5
+R0247,"Amazing cuisine, the seafood was cooked to perfection. Not worth the price at all. Very expensive. Wonderful ambiance, perfect for a date night.","food,price,ambiance","positive,negative,positive",4
+R0248,Great deals and fair prices. Poor cleanliness. The bathroom was disgusting. Worst service ever. They forgot our order twice.,"price,cleanliness,service","positive,negative,negative",1
+R0249,Excellent hygiene standards. Very well maintained. The food was absolutely delicious! steak highly recommend the I.,"cleanliness,food","positive,positive",5
+R0250,The atmosphere was warm and inviting. Great music too. Pristine conditions. Bathrooms were immaculate.,"ambiance,cleanliness","positive,positive",5
+R0251,"Service was okay, nothing exceptional. Superb taste! The pizza was fresh and flavorful. Impeccably clean environment. Very hygienic.","service,food,cleanliness","neutral,positive,positive",5
+R0252,"Great deals and fair prices. Wonderful ambiance, perfect for a date night.","price,ambiance","positive,positive",5
+R0253,"Awful atmosphere. Dark, dirty, and uncomfortable. Average service. Staff was polite but not very attentive. Poor quality ingredients. My steak tasted terrible.","ambiance,service,food","negative,neutral,negative",1
+R0254,Very clean restaurant. Everything was spotless. The ambiance was terrible. Too noisy and crowded.,"cleanliness,ambiance","positive,negative",3
+R0255,"Best seafood I've ever had. The flavors were incredible. Average atmosphere, nothing special about the decor. Excellent hygiene standards. Very well maintained.","food,ambiance,cleanliness","positive,neutral,positive",5
+R0256,Ridiculously overpriced. Poor value for money.,price,negative,1
+R0257,Poor cleanliness. The bathroom was disgusting. Poor customer service. Staff was unprofessional.,"cleanliness,service","negative,negative",2
+R0258,"The food was disappointing. The risotto was cold and bland. Average atmosphere, nothing special about the decor.","food,ambiance","negative,neutral",1
+R0259,Great service throughout our meal. Very welcoming. The ambiance was terrible. Too noisy and crowded.,"service,ambiance","positive,negative",3
+R0260,Beautiful atmosphere! The restaurant has a cozy and romantic ambiance.,ambiance,positive,5
+R0261,Very slow service. We waited 45 minutes for our order. Beautiful atmosphere! The restaurant has a cozy and romantic ambiance.,"service,ambiance","negative,positive",3
+R0262,Beautiful atmosphere! The restaurant has a cozy and romantic ambiance. Not worth the price at all. Very expensive.,"ambiance,price","positive,negative",3
+R0263,"Affordable and worth every penny. The service was impeccable, quick and professional. Very clean restaurant. Everything was spotless.","price,service,cleanliness","positive,positive,positive",4
+R0264,Worst seafood I've ever eaten. Very disappointing.,food,negative,2
+R0265,"Average cleanliness, nothing concerning. Outstanding customer service. Our waiter was amazing. Very reasonable pricing. Good bang for your buck.","cleanliness,service,price","neutral,positive,positive",5
+R0266,Dirty tables and floors. Very unhygienic. Best steak I've ever had. The flavors were incredible.,"cleanliness,food","negative,positive",3
+R0267,Outstanding food quality. The pasta dish was phenomenal. Impeccably clean environment. Very hygienic.,"food,cleanliness","positive,positive",5
+R0268,"Best risotto I've ever had. The flavors were incredible. Average atmosphere, nothing special about the decor.","food,ambiance","positive,neutral",4
+R0269,Sparkling clean. You can tell they take cleanliness seriously. Rude staff and long wait times. Very frustrating.,"cleanliness,service","positive,negative",3
+R0270,Dirty tables and floors. Very unhygienic. Great service throughout our meal. Very welcoming.,"cleanliness,service","negative,positive",3
+R0271,Best risotto I've ever had. The flavors were incredible. Beautiful atmosphere! The restaurant has a cozy and romantic ambiance.,"food,ambiance","positive,positive",4
+R0272,"The ambiance was okay, typical restaurant setting. Amazing cuisine, the burger was cooked to perfection. Too pricey for mediocre food.","ambiance,food,price","neutral,positive,negative",3
+R0273,Pristine conditions. Bathrooms were immaculate. Not worth the price at all. Very expensive. Outstanding food quality. The pizza dish was phenomenal.,"cleanliness,price,food","positive,negative,positive",4
+R0274,Excellent hygiene standards. Very well maintained.,cleanliness,positive,5
+R0275,"Fair prices, nothing remarkable. Great service throughout our meal. Very welcoming.","price,service","neutral,positive",5
+R0276,Food was not fresh at all. The pasta made me sick. Poor customer service. Staff was unprofessional.,"food,service","negative,negative",2
+R0277,"Wonderful staff, very accommodating and helpful. Prices are average for this type of restaurant.","service,price","positive,neutral",5
+R0278,"Fair prices, nothing remarkable. Best steak I've ever had. The flavors were incredible.","price,food","neutral,positive",5
+R0279,"Wonderful ambiance, perfect for a date night. Very clean restaurant. Everything was spotless.","ambiance,cleanliness","positive,positive",5
+R0280,Ridiculously overpriced. Poor value for money.,price,negative,2
+R0281,"Wonderful staff, very accommodating and helpful.",service,positive,4
+R0282,Beautiful atmosphere! The restaurant has a cozy and romantic ambiance. Excellent service! The staff was very attentive and friendly.,"ambiance,service","positive,positive",5
+R0283,Pristine conditions. Bathrooms were immaculate.,cleanliness,positive,5
+R0284,Extremely expensive. Not worth it. Poor ambiance. The place felt cramped and stuffy. Outstanding customer service. Our waiter was amazing.,"price,ambiance,service","negative,negative,positive",1
+R0285,Impeccably clean environment. Very hygienic. Excellent service! The staff was very attentive and friendly.,"cleanliness,service","positive,positive",5
+R0286,"Wonderful staff, very accommodating and helpful. Average atmosphere, nothing special about the decor. Dirty tables and floors. Very unhygienic.","service,ambiance,cleanliness","positive,neutral,negative",3
+R0287,"Average cleanliness, nothing concerning. Stunning interior design. Very comfortable setting.","cleanliness,ambiance","neutral,positive",5
+R0288,"Outstanding food quality. The pizza dish was phenomenal. Wonderful ambiance, perfect for a date night.","food,ambiance","positive,positive",5
+R0289,"Excellent prices for the quality you get. Standard ambiance, neither good nor bad.","price,ambiance","positive,neutral",4
+R0290,"The service was impeccable, quick and professional. The atmosphere was warm and inviting. Great music too. Great deals and fair prices.","service,ambiance,price","positive,positive,positive",5
+R0291,Excellent hygiene standards. Very well maintained. Great deals and fair prices. Love the decor and lighting. Very pleasant environment.,"cleanliness,price,ambiance","positive,positive,positive",4
+R0292,Rude staff and long wait times. Very frustrating. Beautiful atmosphere! The restaurant has a cozy and romantic ambiance. Pristine conditions. Bathrooms were immaculate.,"service,ambiance,cleanliness","negative,positive,positive",4
+R0293,Extremely expensive. Not worth it. Worst service ever. They forgot our order twice.,"price,service","negative,negative",2
+R0294,Very reasonable pricing. Good bang for your buck.,price,positive,4
+R0295,Very clean restaurant. Everything was spotless. Excellent prices for the quality you get.,"cleanliness,price","positive,positive",4
+R0296,"Beautiful atmosphere! The restaurant has a cozy and romantic ambiance. Standard service, nothing to complain about.","ambiance,service","positive,neutral",5
+R0297,"Very reasonable pricing. Good bang for your buck. Service was okay, nothing exceptional.","price,service","positive,neutral",4
+R0298,Excellent hygiene standards. Very well maintained.,cleanliness,positive,4
+R0299,"Outstanding customer service. Our waiter was amazing. Standard pricing, what you'd expect.","service,price","positive,neutral",5
+R0300,Poor ambiance. The place felt cramped and stuffy. Way too expensive for what you get. Overpriced.,"ambiance,price","negative,negative",1
+R0301,"Food was not fresh at all. The salad made me sick. Standard ambiance, neither good nor bad.","food,ambiance","negative,neutral",1
+R0302,Way too expensive for what you get. Overpriced. Excellent hygiene standards. Very well maintained. Superb taste! The seafood was fresh and flavorful.,"price,cleanliness,food","negative,positive,positive",4
+R0303,Outstanding customer service. Our waiter was amazing. Not clean at all. Found hair in my food. Very reasonable pricing. Good bang for your buck.,"service,cleanliness,price","positive,negative,positive",5
+R0304,Outstanding food quality. The burger dish was phenomenal. The atmosphere was warm and inviting. Great music too.,"food,ambiance","positive,positive",4
+R0305,"The service was impeccable, quick and professional. Best steak I've ever had. The flavors were incredible. Excellent prices for the quality you get.","service,food,price","positive,positive,positive",5
+R0306,Bad lighting and uncomfortable seating. Not pleasant.,ambiance,negative,2
+R0307,"Pristine conditions. Bathrooms were immaculate. The ambiance was okay, typical restaurant setting.","cleanliness,ambiance","positive,neutral",5
+R0308,Outstanding customer service. Our waiter was amazing. Stunning interior design. Very comfortable setting.,"service,ambiance","positive,positive",5
+R0309,Great deals and fair prices. The atmosphere was warm and inviting. Great music too.,"price,ambiance","positive,positive",4
+R0310,Impeccably clean environment. Very hygienic. Outstanding customer service. Our waiter was amazing. Best risotto I've ever had. The flavors were incredible.,"cleanliness,service,food","positive,positive,positive",5
+R0311,"Stunning interior design. Very comfortable setting. Impeccably clean environment. Very hygienic. Wonderful staff, very accommodating and helpful.","ambiance,cleanliness,service","positive,positive,positive",5
+R0312,Sparkling clean. You can tell they take cleanliness seriously.,cleanliness,positive,4
+R0313,"Love the decor and lighting. Very pleasant environment. Service was okay, nothing exceptional.","ambiance,service","positive,neutral",5
+R0314,The atmosphere was warm and inviting. Great music too. The food was absolutely delicious! burger highly recommend the I.,"ambiance,food","positive,positive",5
+R0315,"The service was impeccable, quick and professional. Not clean at all. Found hair in my food.","service,cleanliness","positive,negative",3
+R0316,Great service throughout our meal. Very welcoming. The food was absolutely delicious! salad highly recommend the I.,"service,food","positive,positive",4
+R0317,Poor customer service. Staff was unprofessional. Impeccably clean environment. Very hygienic.,"service,cleanliness","negative,positive",3
+R0318,"Wonderful ambiance, perfect for a date night. Poor quality ingredients. My burger tasted terrible. Terrible hygiene. The place was filthy.","ambiance,food,cleanliness","positive,negative,negative",2
+R0319,"Standard pricing, what you'd expect.",price,neutral,3
+R0320,Rude staff and long wait times. Very frustrating. Impeccably clean environment. Very hygienic. Way too expensive for what you get. Overpriced.,"service,cleanliness,price","negative,positive,negative",2
+R0321,Terrible hygiene. The place was filthy. Best steak I've ever had. The flavors were incredible. Affordable and worth every penny.,"cleanliness,food,price","negative,positive,positive",5
+R0322,Very slow service. We waited 45 minutes for our order. Excellent prices for the quality you get.,"service,price","negative,positive",3
+R0323,"Outstanding food quality. The pizza dish was phenomenal. Wonderful ambiance, perfect for a date night.","food,ambiance","positive,positive",4
+R0324,"The ambiance was okay, typical restaurant setting. The service was impeccable, quick and professional.","ambiance,service","neutral,positive",5
+R0325,Excellent hygiene standards. Very well maintained.,cleanliness,positive,5
+R0326,Outstanding food quality. The risotto dish was phenomenal. Poor ambiance. The place felt cramped and stuffy.,"food,ambiance","positive,negative",3
+R0327,Excellent hygiene standards. Very well maintained.,cleanliness,positive,5
+R0328,Excellent service! The staff was very attentive and friendly. Love the decor and lighting. Very pleasant environment.,"service,ambiance","positive,positive",5
+R0329,Impeccably clean environment. Very hygienic. Prices are average for this type of restaurant.,"cleanliness,price","positive,neutral",5
+R0330,Worst service ever. They forgot our order twice. Ridiculously overpriced. Poor value for money. The food was absolutely delicious! burger highly recommend the I.,"service,price,food","negative,negative,positive",1
+R0331,Beautiful atmosphere! The restaurant has a cozy and romantic ambiance. Prices are average for this type of restaurant. Very slow service. We waited 45 minutes for our order.,"ambiance,price,service","positive,neutral,negative",3
+R0332,"Wonderful staff, very accommodating and helpful.",service,positive,4
+R0333,"Very reasonable pricing. Good bang for your buck. Awful atmosphere. Dark, dirty, and uncomfortable.","price,ambiance","positive,negative",3
+R0334,Outstanding customer service. Our waiter was amazing.,service,positive,5
+R0335,Great service throughout our meal. Very welcoming. Poor cleanliness. The bathroom was disgusting.,"service,cleanliness","positive,negative",3
+R0336,Dirty tables and floors. Very unhygienic.,cleanliness,negative,2
+R0337,"Average atmosphere, nothing special about the decor. Too pricey for mediocre food.","ambiance,price","neutral,negative",1
+R0338,Stunning interior design. Very comfortable setting. Outstanding customer service. Our waiter was amazing.,"ambiance,service","positive,positive",5
+R0339,"Standard pricing, what you'd expect.",price,neutral,3
+R0340,Beautiful atmosphere! The restaurant has a cozy and romantic ambiance.,ambiance,positive,5
+R0341,Excellent prices for the quality you get.,price,positive,5
+R0342,Outstanding customer service. Our waiter was amazing. Worst pizza I've ever eaten. Very disappointing.,"service,food","positive,negative",3
+R0343,Stunning interior design. Very comfortable setting. Excellent prices for the quality you get.,"ambiance,price","positive,positive",4
+R0344,Worst service ever. They forgot our order twice. The food was disappointing. The steak was cold and bland.,"service,food","negative,negative",2
+R0345,"Worst pasta I've ever eaten. Very disappointing. Standard pricing, what you'd expect.","food,price","negative,neutral",1
+R0346,"The food was okay, nothing special about the salad. The atmosphere was warm and inviting. Great music too.","food,ambiance","neutral,positive",5
+R0347,The food was disappointing. The pizza was cold and bland.,food,negative,1
+R0348,Poor customer service. Staff was unprofessional.,service,negative,2
+R0349,Very slow service. We waited 45 minutes for our order. Poor cleanliness. The bathroom was disgusting. The atmosphere was warm and inviting. Great music too.,"service,cleanliness,ambiance","negative,negative,positive",1
+R0350,Bad lighting and uncomfortable seating. Not pleasant.,ambiance,negative,2
+R0351,Best burger I've ever had. The flavors were incredible. Poor ambiance. The place felt cramped and stuffy. Too pricey for mediocre food.,"food,ambiance,price","positive,negative,negative",2
+R0352,"Great value for money! Very affordable prices. Best salad I've ever had. The flavors were incredible. Standard ambiance, neither good nor bad.","price,food,ambiance","positive,positive,neutral",5
+R0353,"Excellent hygiene standards. Very well maintained. Standard service, nothing to complain about.","cleanliness,service","positive,neutral",5
+R0354,Average service. Staff was polite but not very attentive. Very dirty restaurant. Health code violations visible.,"service,cleanliness","neutral,negative",2
+R0355,"Very clean restaurant. Everything was spotless. Amazing cuisine, the burger was cooked to perfection.","cleanliness,food","positive,positive",5
+R0356,"Average atmosphere, nothing special about the decor. Extremely expensive. Not worth it.","ambiance,price","neutral,negative",1
+R0357,The food was absolutely delicious! risotto highly recommend the I. Impeccably clean environment. Very hygienic.,"food,cleanliness","positive,positive",4
+R0358,Great deals and fair prices. Best salad I've ever had. The flavors were incredible. Pristine conditions. Bathrooms were immaculate.,"price,food,cleanliness","positive,positive,positive",4
+R0359,"The ambiance was okay, typical restaurant setting. Very reasonable pricing. Good bang for your buck.","ambiance,price","neutral,positive",5
+R0360,"Standard ambiance, neither good nor bad. Pristine conditions. Bathrooms were immaculate. Extremely expensive. Not worth it.","ambiance,cleanliness,price","neutral,positive,negative",3
+R0361,Impeccably clean environment. Very hygienic.,cleanliness,positive,5
+R0362,Ridiculously overpriced. Poor value for money. Outstanding customer service. Our waiter was amazing.,"price,service","negative,positive",3
+R0363,Poor quality ingredients. My salad tasted terrible. Great value for money! Very affordable prices. The atmosphere was warm and inviting. Great music too.,"food,price,ambiance","negative,positive,positive",5
+R0364,Pristine conditions. Bathrooms were immaculate. Worst salad I've ever eaten. Very disappointing.,"cleanliness,food","positive,negative",3
+R0365,Worst salad I've ever eaten. Very disappointing. Impeccably clean environment. Very hygienic.,"food,cleanliness","negative,positive",3
+R0366,Affordable and worth every penny. Stunning interior design. Very comfortable setting.,"price,ambiance","positive,positive",5
+R0367,Affordable and worth every penny.,price,positive,5
+R0368,Very slow service. We waited 45 minutes for our order.,service,negative,1
+R0369,"The service was impeccable, quick and professional. Reasonably clean, met basic standards.","service,cleanliness","positive,neutral",4
+R0370,Love the decor and lighting. Very pleasant environment. Poor customer service. Staff was unprofessional.,"ambiance,service","positive,negative",3
+R0371,Great value for money! Very affordable prices.,price,positive,5
+R0372,Excellent service! The staff was very attentive and friendly. Ridiculously overpriced. Poor value for money. Very clean restaurant. Everything was spotless.,"service,price,cleanliness","positive,negative,positive",5
+R0373,Extremely expensive. Not worth it.,price,negative,2
+R0374,"Wonderful staff, very accommodating and helpful.",service,positive,5
+R0375,"Service was okay, nothing exceptional. Excellent hygiene standards. Very well maintained. The atmosphere was warm and inviting. Great music too.","service,cleanliness,ambiance","neutral,positive,positive",5
+R0376,Poor quality ingredients. My risotto tasted terrible.,food,negative,1
+R0377,Very reasonable pricing. Good bang for your buck. Superb taste! The steak was fresh and flavorful.,"price,food","positive,positive",5
+R0378,Worst service ever. They forgot our order twice.,service,negative,2
+R0379,"Wonderful ambiance, perfect for a date night. Overcooked and tasteless. The steak was inedible.","ambiance,food","positive,negative",3
+R0380,"Wonderful ambiance, perfect for a date night.",ambiance,positive,4
+R0381,"Wonderful ambiance, perfect for a date night. Outstanding customer service. Our waiter was amazing.","ambiance,service","positive,positive",5
+R0382,Outstanding food quality. The pasta dish was phenomenal. Ridiculously overpriced. Poor value for money.,"food,price","positive,negative",3
+R0383,Love the decor and lighting. Very pleasant environment. Average service. Staff was polite but not very attentive.,"ambiance,service","positive,neutral",5
+R0384,"The ambiance was okay, typical restaurant setting. Poor quality ingredients. My salad tasted terrible. Very reasonable pricing. Good bang for your buck.","ambiance,food,price","neutral,negative,positive",3
+R0385,"Amazing cuisine, the salad was cooked to perfection. Excellent prices for the quality you get.","food,price","positive,positive",5
+R0386,Outstanding food quality. The salad dish was phenomenal.,food,positive,5
+R0387,Very unpleasant environment. Too loud to have a conversation.,ambiance,negative,2
+R0388,Sparkling clean. You can tell they take cleanliness seriously. Average service. Staff was polite but not very attentive.,"cleanliness,service","positive,neutral",5
+R0389,Outstanding food quality. The pizza dish was phenomenal. Great deals and fair prices.,"food,price","positive,positive",5
+R0390,Excellent service! The staff was very attentive and friendly.,service,positive,4
+R0391,"Poor quality ingredients. My pizza tasted terrible. Awful atmosphere. Dark, dirty, and uncomfortable.","food,ambiance","negative,negative",1
+R0392,Poor customer service. Staff was unprofessional. Poor cleanliness. The bathroom was disgusting.,"service,cleanliness","negative,negative",2
+R0393,Very dirty restaurant. Health code violations visible.,cleanliness,negative,1
+R0394,Great service throughout our meal. Very welcoming.,service,positive,4
+R0395,Very clean restaurant. Everything was spotless. Not worth the price at all. Very expensive. Outstanding customer service. Our waiter was amazing.,"cleanliness,price,service","positive,negative,positive",5
+R0396,Poor customer service. Staff was unprofessional. The food was disappointing. The seafood was cold and bland.,"service,food","negative,negative",2
+R0397,"Average cleanliness, nothing concerning. The food was disappointing. The salad was cold and bland.","cleanliness,food","neutral,negative",1
+R0398,Excellent prices for the quality you get. Sparkling clean. You can tell they take cleanliness seriously. Poor ambiance. The place felt cramped and stuffy.,"price,cleanliness,ambiance","positive,positive,negative",5
+R0399,"Wonderful ambiance, perfect for a date night.",ambiance,positive,5
+R0400,Standard restaurant food. The pasta was just fine.,food,neutral,3
+R0401,Stunning interior design. Very comfortable setting. Excellent hygiene standards. Very well maintained.,"ambiance,cleanliness","positive,positive",5
+R0402,"Affordable and worth every penny. Wonderful staff, very accommodating and helpful.","price,service","positive,positive",5
+R0403,Poor cleanliness. The bathroom was disgusting. Way too expensive for what you get. Overpriced.,"cleanliness,price","negative,negative",2
+R0404,"Amazing cuisine, the seafood was cooked to perfection.",food,positive,4
+R0405,The ambiance was terrible. Too noisy and crowded. Not worth the price at all. Very expensive.,"ambiance,price","negative,negative",2
+R0406,Extremely expensive. Not worth it. Impeccably clean environment. Very hygienic.,"price,cleanliness","negative,positive",3
+R0407,Great service throughout our meal. Very welcoming. Food was not fresh at all. The pizza made me sick.,"service,food","positive,negative",3
+R0408,Love the decor and lighting. Very pleasant environment.,ambiance,positive,5
+R0409,Pristine conditions. Bathrooms were immaculate.,cleanliness,positive,4
+R0410,Standard restaurant food. The risotto was just fine.,food,neutral,3
+R0411,Not worth the price at all. Very expensive. Love the decor and lighting. Very pleasant environment.,"price,ambiance","negative,positive",3
+R0412,Stunning interior design. Very comfortable setting. Extremely expensive. Not worth it.,"ambiance,price","positive,negative",3
+R0413,Great deals and fair prices.,price,positive,5
+R0414,Dirty tables and floors. Very unhygienic. Ridiculously overpriced. Poor value for money.,"cleanliness,price","negative,negative",1
+R0415,Food was not fresh at all. The pasta made me sick. Great value for money! Very affordable prices.,"food,price","negative,positive",3
+R0416,Very dirty restaurant. Health code violations visible. Outstanding customer service. Our waiter was amazing.,"cleanliness,service","negative,positive",3
+R0417,Excellent prices for the quality you get. Average service. Staff was polite but not very attentive.,"price,service","positive,neutral",4
+R0418,"Cleanliness was acceptable, standard level. Average service. Staff was polite but not very attentive. Superb taste! The burger was fresh and flavorful.","cleanliness,service,food","neutral,neutral,positive",5
+R0419,Very reasonable pricing. Good bang for your buck. Terrible hygiene. The place was filthy. Outstanding food quality. The steak dish was phenomenal.,"price,cleanliness,food","positive,negative,positive",5
+R0420,The food was disappointing. The pasta was cold and bland. Affordable and worth every penny.,"food,price","negative,positive",3
+R0421,Stunning interior design. Very comfortable setting.,ambiance,positive,5
+R0422,"Wonderful staff, very accommodating and helpful. Terrible hygiene. The place was filthy.","service,cleanliness","positive,negative",3
+R0423,"Standard ambiance, neither good nor bad.",ambiance,neutral,3
+R0424,Worst burger I've ever eaten. Very disappointing. Poor ambiance. The place felt cramped and stuffy.,"food,ambiance","negative,negative",1
+R0425,Worst service ever. They forgot our order twice. Not clean at all. Found hair in my food.,"service,cleanliness","negative,negative",1
+R0426,The food was absolutely delicious! burger highly recommend the I.,food,positive,5
+R0427,Affordable and worth every penny.,price,positive,5
+R0428,Superb taste! The seafood was fresh and flavorful.,food,positive,5
+R0429,The atmosphere was warm and inviting. Great music too. Impeccably clean environment. Very hygienic.,"ambiance,cleanliness","positive,positive",4
+R0430,Outstanding customer service. Our waiter was amazing.,service,positive,5
+R0431,Great service throughout our meal. Very welcoming. Poor quality ingredients. My steak tasted terrible.,"service,food","positive,negative",3
+R0432,"Food was not fresh at all. The steak made me sick. Standard ambiance, neither good nor bad. Very slow service. We waited 45 minutes for our order.","food,ambiance,service","negative,neutral,negative",1
+R0433,"The service was impeccable, quick and professional. Very unpleasant environment. Too loud to have a conversation.","service,ambiance","positive,negative",3
+R0434,Outstanding customer service. Our waiter was amazing.,service,positive,5
+R0435,Extremely expensive. Not worth it. Best pasta I've ever had. The flavors were incredible.,"price,food","negative,positive",3
+R0436,Rude staff and long wait times. Very frustrating.,service,negative,1
+R0437,Outstanding food quality. The risotto dish was phenomenal.,food,positive,5
+R0438,"Poor quality ingredients. My salad tasted terrible. Average atmosphere, nothing special about the decor.","food,ambiance","negative,neutral",1
+R0439,Best risotto I've ever had. The flavors were incredible. Dirty tables and floors. Very unhygienic.,"food,cleanliness","positive,negative",3
+R0440,Great value for money! Very affordable prices. Poor ambiance. The place felt cramped and stuffy.,"price,ambiance","positive,negative",3
+R0441,Worst burger I've ever eaten. Very disappointing. The atmosphere was warm and inviting. Great music too.,"food,ambiance","negative,positive",3
+R0442,"Wonderful staff, very accommodating and helpful. Reasonably clean, met basic standards.","service,cleanliness","positive,neutral",5
+R0443,"Awful atmosphere. Dark, dirty, and uncomfortable. Standard pricing, what you'd expect. Worst service ever. They forgot our order twice.","ambiance,price,service","negative,neutral,negative",1
+R0444,Standard restaurant food. The burger was just fine.,food,neutral,3
+R0445,Superb taste! The seafood was fresh and flavorful. Excellent service! The staff was very attentive and friendly.,"food,service","positive,positive",5
+R0446,"Reasonably clean, met basic standards.",cleanliness,neutral,3
+R0447,"Service was okay, nothing exceptional. Poor quality ingredients. My burger tasted terrible. Wonderful ambiance, perfect for a date night.","service,food,ambiance","neutral,negative,positive",3
+R0448,Love the decor and lighting. Very pleasant environment. Superb taste! The salad was fresh and flavorful.,"ambiance,food","positive,positive",5
+R0449,Superb taste! The burger was fresh and flavorful. Outstanding customer service. Our waiter was amazing.,"food,service","positive,positive",4
+R0450,"Awful atmosphere. Dark, dirty, and uncomfortable. Outstanding customer service. Our waiter was amazing.","ambiance,service","negative,positive",3
+R0451,"Amazing cuisine, the burger was cooked to perfection. Sparkling clean. You can tell they take cleanliness seriously. Excellent service! The staff was very attentive and friendly.","food,cleanliness,service","positive,positive,positive",5
+R0452,Excellent prices for the quality you get. Impeccably clean environment. Very hygienic. Love the decor and lighting. Very pleasant environment.,"price,cleanliness,ambiance","positive,positive,positive",5
+R0453,"Impeccably clean environment. Very hygienic. The food was okay, nothing special about the salad.","cleanliness,food","positive,neutral",4
+R0454,"The service was impeccable, quick and professional. The ambiance was terrible. Too noisy and crowded.","service,ambiance","positive,negative",3
+R0455,"Very clean restaurant. Everything was spotless. Superb taste! The risotto was fresh and flavorful. The ambiance was okay, typical restaurant setting.","cleanliness,food,ambiance","positive,positive,neutral",5
+R0456,The atmosphere was warm and inviting. Great music too. The food was absolutely delicious! risotto highly recommend the I.,"ambiance,food","positive,positive",5
+R0457,Stunning interior design. Very comfortable setting.,ambiance,positive,5
+R0458,"Best pizza I've ever had. The flavors were incredible. Very reasonable pricing. Good bang for your buck. Wonderful ambiance, perfect for a date night.","food,price,ambiance","positive,positive,positive",5
+R0459,Great service throughout our meal. Very welcoming. Terrible hygiene. The place was filthy.,"service,cleanliness","positive,negative",3
+R0460,Beautiful atmosphere! The restaurant has a cozy and romantic ambiance.,ambiance,positive,4
+R0461,"Prices are average for this type of restaurant. Standard ambiance, neither good nor bad.","price,ambiance","neutral,neutral",3
+R0462,Excellent service! The staff was very attentive and friendly.,service,positive,5
+R0463,"Standard pricing, what you'd expect. Excellent hygiene standards. Very well maintained.","price,cleanliness","neutral,positive",4
+R0464,"Wonderful staff, very accommodating and helpful.",service,positive,5
+R0465,Terrible service. The waiter was rude and inattentive. Dirty tables and floors. Very unhygienic.,"service,cleanliness","negative,negative",2
+R0466,Outstanding food quality. The pasta dish was phenomenal.,food,positive,5
+R0467,Ridiculously overpriced. Poor value for money. Not clean at all. Found hair in my food. The food was disappointing. The pizza was cold and bland.,"price,cleanliness,food","negative,negative,negative",2
+R0468,"Way too expensive for what you get. Overpriced. Wonderful ambiance, perfect for a date night.","price,ambiance","negative,positive",3
+R0469,Ridiculously overpriced. Poor value for money. Poor customer service. Staff was unprofessional.,"price,service","negative,negative",2
+R0470,The atmosphere was warm and inviting. Great music too. Poor quality ingredients. My pasta tasted terrible.,"ambiance,food","positive,negative",3
+R0471,Affordable and worth every penny.,price,positive,5
+R0472,"Best salad I've ever had. The flavors were incredible. Excellent hygiene standards. Very well maintained. The ambiance was okay, typical restaurant setting.","food,cleanliness,ambiance","positive,positive,neutral",5
+R0473,Outstanding food quality. The seafood dish was phenomenal.,food,positive,4
+R0474,"Excellent prices for the quality you get. Average cleanliness, nothing concerning. Great service throughout our meal. Very welcoming.","price,cleanliness,service","positive,neutral,positive",4
+R0475,Terrible hygiene. The place was filthy. Outstanding customer service. Our waiter was amazing. Not worth the price at all. Very expensive.,"cleanliness,service,price","negative,positive,negative",2
+R0476,Love the decor and lighting. Very pleasant environment. Too pricey for mediocre food. Very dirty restaurant. Health code violations visible.,"ambiance,price,cleanliness","positive,negative,negative",2
+R0477,The food was absolutely delicious! risotto highly recommend the I. Excellent prices for the quality you get.,"food,price","positive,positive",5
+R0478,Superb taste! The salad was fresh and flavorful. Poor customer service. Staff was unprofessional. Excellent hygiene standards. Very well maintained.,"food,service,cleanliness","positive,negative,positive",5
+R0479,Impeccably clean environment. Very hygienic.,cleanliness,positive,4
+R0480,Excellent service! The staff was very attentive and friendly. Very unpleasant environment. Too loud to have a conversation. Too pricey for mediocre food.,"service,ambiance,price","positive,negative,negative",1
+R0481,"Average taste. The salad was acceptable but not memorable. Service was okay, nothing exceptional. Excellent prices for the quality you get.","food,service,price","neutral,neutral,positive",5
+R0482,Great service throughout our meal. Very welcoming. The ambiance was terrible. Too noisy and crowded.,"service,ambiance","positive,negative",3
+R0483,Very unpleasant environment. Too loud to have a conversation.,ambiance,negative,1
+R0484,Great value for money! Very affordable prices. Stunning interior design. Very comfortable setting.,"price,ambiance","positive,positive",5
+R0485,Great value for money! Very affordable prices.,price,positive,4
+R0486,Beautiful atmosphere! The restaurant has a cozy and romantic ambiance.,ambiance,positive,5
+R0487,Poor quality ingredients. My pizza tasted terrible. Beautiful atmosphere! The restaurant has a cozy and romantic ambiance. Very dirty restaurant. Health code violations visible.,"food,ambiance,cleanliness","negative,positive,negative",1
+R0488,Terrible service. The waiter was rude and inattentive.,service,negative,2
+R0489,Superb taste! The risotto was fresh and flavorful.,food,positive,5
+R0490,Extremely expensive. Not worth it.,price,negative,1
+R0491,Food was not fresh at all. The risotto made me sick. Great service throughout our meal. Very welcoming.,"food,service","negative,positive",3
+R0492,Great deals and fair prices. Food was not fresh at all. The steak made me sick.,"price,food","positive,negative",3
+R0493,Not worth the price at all. Very expensive. Great service throughout our meal. Very welcoming.,"price,service","negative,positive",3
+R0494,Superb taste! The burger was fresh and flavorful. Excellent hygiene standards. Very well maintained.,"food,cleanliness","positive,positive",4
+R0495,"Amazing cuisine, the pasta was cooked to perfection.",food,positive,5
+R0496,The food was absolutely delicious! salad highly recommend the I. Excellent service! The staff was very attentive and friendly.,"food,service","positive,positive",5
+R0497,Pristine conditions. Bathrooms were immaculate. Excellent prices for the quality you get.,"cleanliness,price","positive,positive",4
+R0498,"Fair prices, nothing remarkable. Stunning interior design. Very comfortable setting.","price,ambiance","neutral,positive",4
+R0499,Beautiful atmosphere! The restaurant has a cozy and romantic ambiance. Poor cleanliness. The bathroom was disgusting.,"ambiance,cleanliness","positive,negative",3
+R0500,Very reasonable pricing. Good bang for your buck.,price,positive,5
+R0501,Rude staff and long wait times. Very frustrating.,service,negative,1
+R0502,"Standard ambiance, neither good nor bad.",ambiance,neutral,3
+R0503,Excellent prices for the quality you get.,price,positive,5
+R0504,Food was not fresh at all. The risotto made me sick. Outstanding customer service. Our waiter was amazing.,"food,service","negative,positive",3
+R0505,Worst service ever. They forgot our order twice.,service,negative,1
+R0506,Great service throughout our meal. Very welcoming. Excellent prices for the quality you get. Sparkling clean. You can tell they take cleanliness seriously.,"service,price,cleanliness","positive,positive,positive",4
+R0507,Superb taste! The salad was fresh and flavorful. Great deals and fair prices.,"food,price","positive,positive",5
+R0508,Impeccably clean environment. Very hygienic. Worst service ever. They forgot our order twice.,"cleanliness,service","positive,negative",3
+R0509,Excellent hygiene standards. Very well maintained. Affordable and worth every penny.,"cleanliness,price","positive,positive",5
+R0510,"Standard pricing, what you'd expect. Sparkling clean. You can tell they take cleanliness seriously.","price,cleanliness","neutral,positive",4
+R0511,"Wonderful staff, very accommodating and helpful.",service,positive,4
+R0512,Affordable and worth every penny.,price,positive,4
+R0513,Average taste. The seafood was acceptable but not memorable. Dirty tables and floors. Very unhygienic. Very reasonable pricing. Good bang for your buck.,"food,cleanliness,price","neutral,negative,positive",3
+R0514,The food was disappointing. The burger was cold and bland. Very reasonable pricing. Good bang for your buck. Pristine conditions. Bathrooms were immaculate.,"food,price,cleanliness","negative,positive,positive",5
+R0515,The food was absolutely delicious! steak highly recommend the I. Prices are average for this type of restaurant.,"food,price","positive,neutral",5
+R0516,"Amazing cuisine, the steak was cooked to perfection. Fair prices, nothing remarkable.","food,price","positive,neutral",5
+R0517,Poor ambiance. The place felt cramped and stuffy. Sparkling clean. You can tell they take cleanliness seriously.,"ambiance,cleanliness","negative,positive",3
+R0518,The ambiance was terrible. Too noisy and crowded.,ambiance,negative,2
+R0519,Great value for money! Very affordable prices. Not clean at all. Found hair in my food.,"price,cleanliness","positive,negative",3
+R0520,"The ambiance was okay, typical restaurant setting.",ambiance,neutral,3
+R0521,Poor ambiance. The place felt cramped and stuffy. Ridiculously overpriced. Poor value for money.,"ambiance,price","negative,negative",1
+R0522,Prices are average for this type of restaurant.,price,neutral,3
+R0523,Outstanding customer service. Our waiter was amazing. Stunning interior design. Very comfortable setting. Poor quality ingredients. My pizza tasted terrible.,"service,ambiance,food","positive,positive,negative",5
+R0524,Very dirty restaurant. Health code violations visible.,cleanliness,negative,2
+R0525,"Great deals and fair prices. Wonderful ambiance, perfect for a date night.","price,ambiance","positive,positive",5
+R0526,Affordable and worth every penny. Superb taste! The seafood was fresh and flavorful.,"price,food","positive,positive",5
+R0527,"Average atmosphere, nothing special about the decor. The service was impeccable, quick and professional.","ambiance,service","neutral,positive",5
+R0528,Very reasonable pricing. Good bang for your buck. Best burger I've ever had. The flavors were incredible.,"price,food","positive,positive",4
+R0529,"Excellent service! The staff was very attentive and friendly. Amazing cuisine, the risotto was cooked to perfection.","service,food","positive,positive",5
+R0530,Pristine conditions. Bathrooms were immaculate.,cleanliness,positive,5
+R0531,"Poor cleanliness. The bathroom was disgusting. The food was absolutely delicious! pasta highly recommend the I. Wonderful staff, very accommodating and helpful.","cleanliness,food,service","negative,positive,positive",5
+R0532,"Very reasonable pricing. Good bang for your buck. Wonderful staff, very accommodating and helpful.","price,service","positive,positive",5
+R0533,Very dirty restaurant. Health code violations visible. Worst salad I've ever eaten. Very disappointing.,"cleanliness,food","negative,negative",2
+R0534,The atmosphere was warm and inviting. Great music too. Excellent prices for the quality you get.,"ambiance,price","positive,positive",4
+R0535,"Not clean at all. Found hair in my food. The service was impeccable, quick and professional.","cleanliness,service","negative,positive",3
+R0536,Outstanding food quality. The burger dish was phenomenal. Too pricey for mediocre food.,"food,price","positive,negative",3
+R0537,"Pristine conditions. Bathrooms were immaculate. The food was okay, nothing special about the salad. Worst service ever. They forgot our order twice.","cleanliness,food,service","positive,neutral,negative",3
+R0538,Beautiful atmosphere! The restaurant has a cozy and romantic ambiance. Prices are average for this type of restaurant.,"ambiance,price","positive,neutral",5
+R0539,"The service was impeccable, quick and professional. Very clean restaurant. Everything was spotless.","service,cleanliness","positive,positive",4
+R0540,Great service throughout our meal. Very welcoming.,service,positive,5
+R0541,Affordable and worth every penny. Very clean restaurant. Everything was spotless.,"price,cleanliness","positive,positive",5
+R0542,The food was absolutely delicious! pizza highly recommend the I. The ambiance was terrible. Too noisy and crowded.,"food,ambiance","positive,negative",3
+R0543,Bad lighting and uncomfortable seating. Not pleasant. Pristine conditions. Bathrooms were immaculate. Great value for money! Very affordable prices.,"ambiance,cleanliness,price","negative,positive,positive",4
+R0544,Very clean restaurant. Everything was spotless. Outstanding customer service. Our waiter was amazing.,"cleanliness,service","positive,positive",5
+R0545,Best steak I've ever had. The flavors were incredible. Excellent service! The staff was very attentive and friendly.,"food,service","positive,positive",5
+R0546,Great service throughout our meal. Very welcoming.,service,positive,4
+R0547,Not clean at all. Found hair in my food. Food was not fresh at all. The burger made me sick. Love the decor and lighting. Very pleasant environment.,"cleanliness,food,ambiance","negative,negative,positive",1
+R0548,"Cleanliness was acceptable, standard level. Affordable and worth every penny. The service was impeccable, quick and professional.","cleanliness,price,service","neutral,positive,positive",5
+R0549,Stunning interior design. Very comfortable setting. Ridiculously overpriced. Poor value for money.,"ambiance,price","positive,negative",3
+R0550,Great service throughout our meal. Very welcoming. Outstanding food quality. The seafood dish was phenomenal.,"service,food","positive,positive",5
+R0551,Superb taste! The pizza was fresh and flavorful.,food,positive,5
+R0552,"Amazing cuisine, the risotto was cooked to perfection.",food,positive,4
+R0553,Pristine conditions. Bathrooms were immaculate.,cleanliness,positive,5
+R0554,Outstanding customer service. Our waiter was amazing. Superb taste! The seafood was fresh and flavorful.,"service,food","positive,positive",5
+R0555,Great deals and fair prices.,price,positive,4
+R0556,Sparkling clean. You can tell they take cleanliness seriously.,cleanliness,positive,5
+R0557,Outstanding food quality. The steak dish was phenomenal. Great service throughout our meal. Very welcoming.,"food,service","positive,positive",5
+R0558,Impeccably clean environment. Very hygienic. Outstanding customer service. Our waiter was amazing.,"cleanliness,service","positive,positive",4
+R0559,"Average atmosphere, nothing special about the decor. Excellent service! The staff was very attentive and friendly.","ambiance,service","neutral,positive",4
+R0560,Very clean restaurant. Everything was spotless.,cleanliness,positive,4
+R0561,"Fair prices, nothing remarkable.",price,neutral,3
+R0562,Pristine conditions. Bathrooms were immaculate. The food was disappointing. The salad was cold and bland.,"cleanliness,food","positive,negative",3
+R0563,Love the decor and lighting. Very pleasant environment. Impeccably clean environment. Very hygienic.,"ambiance,cleanliness","positive,positive",4
+R0564,Superb taste! The pizza was fresh and flavorful.,food,positive,5
+R0565,"Ridiculously overpriced. Poor value for money. The food was okay, nothing special about the pizza.","price,food","negative,neutral",2
+R0566,"The service was impeccable, quick and professional. The atmosphere was warm and inviting. Great music too. Best pasta I've ever had. The flavors were incredible.","service,ambiance,food","positive,positive,positive",5
+R0567,Not worth the price at all. Very expensive. Bad lighting and uncomfortable seating. Not pleasant. Food was not fresh at all. The burger made me sick.,"price,ambiance,food","negative,negative,negative",1
+R0568,Impeccably clean environment. Very hygienic. Great service throughout our meal. Very welcoming.,"cleanliness,service","positive,positive",5
+R0569,Rude staff and long wait times. Very frustrating.,service,negative,1
+R0570,"Great service throughout our meal. Very welcoming. Wonderful ambiance, perfect for a date night.","service,ambiance","positive,positive",5
+R0571,Superb taste! The risotto was fresh and flavorful.,food,positive,5
+R0572,Great service throughout our meal. Very welcoming.,service,positive,4
+R0573,Very reasonable pricing. Good bang for your buck. Stunning interior design. Very comfortable setting.,"price,ambiance","positive,positive",5
+R0574,"The service was impeccable, quick and professional.",service,positive,5
+R0575,Worst service ever. They forgot our order twice. Beautiful atmosphere! The restaurant has a cozy and romantic ambiance.,"service,ambiance","negative,positive",3
+R0576,Pristine conditions. Bathrooms were immaculate. Way too expensive for what you get. Overpriced. Overcooked and tasteless. The pasta was inedible.,"cleanliness,price,food","positive,negative,negative",1
+R0577,Superb taste! The risotto was fresh and flavorful.,food,positive,5
+R0578,Very slow service. We waited 45 minutes for our order. Sparkling clean. You can tell they take cleanliness seriously.,"service,cleanliness","negative,positive",3
+R0579,Excellent service! The staff was very attentive and friendly. Love the decor and lighting. Very pleasant environment.,"service,ambiance","positive,positive",5
+R0580,Very slow service. We waited 45 minutes for our order.,service,negative,2
+R0581,Beautiful atmosphere! The restaurant has a cozy and romantic ambiance. Dirty tables and floors. Very unhygienic. Best steak I've ever had. The flavors were incredible.,"ambiance,cleanliness,food","positive,negative,positive",5
+R0582,The atmosphere was warm and inviting. Great music too.,ambiance,positive,5
+R0583,"Fair prices, nothing remarkable. Superb taste! The burger was fresh and flavorful.","price,food","neutral,positive",5
+R0584,Very clean restaurant. Everything was spotless. Great value for money! Very affordable prices. Worst service ever. They forgot our order twice.,"cleanliness,price,service","positive,positive,negative",4
+R0585,Extremely expensive. Not worth it. Best salad I've ever had. The flavors were incredible.,"price,food","negative,positive",3
+R0586,"The service was impeccable, quick and professional.",service,positive,5
+R0587,Not clean at all. Found hair in my food.,cleanliness,negative,1
+R0588,Impeccably clean environment. Very hygienic. Poor quality ingredients. My pizza tasted terrible.,"cleanliness,food","positive,negative",3
+R0589,Great value for money! Very affordable prices.,price,positive,5
+R0590,Worst burger I've ever eaten. Very disappointing.,food,negative,1
+R0591,Best seafood I've ever had. The flavors were incredible.,food,positive,4
+R0592,"The service was impeccable, quick and professional. Average taste. The seafood was acceptable but not memorable.","service,food","positive,neutral",5
+R0593,Affordable and worth every penny.,price,positive,5
+R0594,"Too pricey for mediocre food. Standard service, nothing to complain about.","price,service","negative,neutral",2
+R0595,Worst service ever. They forgot our order twice. Excellent prices for the quality you get.,"service,price","negative,positive",3
+R0596,"Amazing cuisine, the salad was cooked to perfection. Pristine conditions. Bathrooms were immaculate.","food,cleanliness","positive,positive",5
+R0597,"The ambiance was okay, typical restaurant setting. Excellent hygiene standards. Very well maintained. Outstanding food quality. The burger dish was phenomenal.","ambiance,cleanliness,food","neutral,positive,positive",5
+R0598,Best burger I've ever had. The flavors were incredible. Great service throughout our meal. Very welcoming.,"food,service","positive,positive",5
+R0599,"Poor customer service. Staff was unprofessional. Awful atmosphere. Dark, dirty, and uncomfortable.","service,ambiance","negative,negative",2
+R0600,Bad lighting and uncomfortable seating. Not pleasant. Dirty tables and floors. Very unhygienic.,"ambiance,cleanliness","negative,negative",2
+R0601,Excellent service! The staff was very attentive and friendly. The food was absolutely delicious! pizza highly recommend the I.,"service,food","positive,positive",4
+R0602,Way too expensive for what you get. Overpriced. Dirty tables and floors. Very unhygienic. The food was absolutely delicious! salad highly recommend the I.,"price,cleanliness,food","negative,negative,positive",1
+R0603,Affordable and worth every penny. Average service. Staff was polite but not very attentive.,"price,service","positive,neutral",4
+R0604,Impeccably clean environment. Very hygienic.,cleanliness,positive,5
+R0605,Ridiculously overpriced. Poor value for money. Love the decor and lighting. Very pleasant environment.,"price,ambiance","negative,positive",3
+R0606,"Amazing cuisine, the pasta was cooked to perfection. Way too expensive for what you get. Overpriced.","food,price","positive,negative",3
+R0607,Pristine conditions. Bathrooms were immaculate. Outstanding customer service. Our waiter was amazing. Very reasonable pricing. Good bang for your buck.,"cleanliness,service,price","positive,positive,positive",4
+R0608,Pristine conditions. Bathrooms were immaculate. Great value for money! Very affordable prices. Best burger I've ever had. The flavors were incredible.,"cleanliness,price,food","positive,positive,positive",5
+R0609,"Excellent hygiene standards. Very well maintained. Awful atmosphere. Dark, dirty, and uncomfortable. The food was absolutely delicious! burger highly recommend the I.","cleanliness,ambiance,food","positive,negative,positive",5
+R0610,Outstanding customer service. Our waiter was amazing.,service,positive,5
+R0611,"Wonderful ambiance, perfect for a date night.",ambiance,positive,5
+R0612,Sparkling clean. You can tell they take cleanliness seriously. Very slow service. We waited 45 minutes for our order.,"cleanliness,service","positive,negative",3
+R0613,"Service was okay, nothing exceptional. Excellent prices for the quality you get.","service,price","neutral,positive",5
+R0614,Superb taste! The salad was fresh and flavorful. Dirty tables and floors. Very unhygienic.,"food,cleanliness","positive,negative",3
+R0615,"Stunning interior design. Very comfortable setting. Amazing cuisine, the risotto was cooked to perfection.","ambiance,food","positive,positive",5
+R0616,"Very reasonable pricing. Good bang for your buck. Cleanliness was acceptable, standard level. Love the decor and lighting. Very pleasant environment.","price,cleanliness,ambiance","positive,neutral,positive",4
+R0617,"Extremely expensive. Not worth it. The food was absolutely delicious! pasta highly recommend the I. Standard ambiance, neither good nor bad.","price,food,ambiance","negative,positive,neutral",3
+R0618,Sparkling clean. You can tell they take cleanliness seriously. Poor quality ingredients. My seafood tasted terrible. Too pricey for mediocre food.,"cleanliness,food,price","positive,negative,negative",1
+R0619,Ridiculously overpriced. Poor value for money.,price,negative,2
+R0620,"Dirty tables and floors. Very unhygienic. The service was impeccable, quick and professional.","cleanliness,service","negative,positive",3
+R0621,Great value for money! Very affordable prices. Poor quality ingredients. My pasta tasted terrible. Dirty tables and floors. Very unhygienic.,"price,food,cleanliness","positive,negative,negative",2
+R0622,Great deals and fair prices.,price,positive,5
+R0623,"The ambiance was okay, typical restaurant setting. Excellent hygiene standards. Very well maintained.","ambiance,cleanliness","neutral,positive",5
+R0624,"Awful atmosphere. Dark, dirty, and uncomfortable. Superb taste! The risotto was fresh and flavorful.","ambiance,food","negative,positive",3
+R0625,"Excellent prices for the quality you get. Wonderful ambiance, perfect for a date night.","price,ambiance","positive,positive",4
+R0626,Worst service ever. They forgot our order twice. Excellent prices for the quality you get.,"service,price","negative,positive",3
+R0627,"Excellent hygiene standards. Very well maintained. Standard ambiance, neither good nor bad.","cleanliness,ambiance","positive,neutral",5
+R0628,Outstanding customer service. Our waiter was amazing. Sparkling clean. You can tell they take cleanliness seriously.,"service,cleanliness","positive,positive",5
+R0629,Beautiful atmosphere! The restaurant has a cozy and romantic ambiance. Outstanding customer service. Our waiter was amazing.,"ambiance,service","positive,positive",5
+R0630,Outstanding customer service. Our waiter was amazing. The food was absolutely delicious! pizza highly recommend the I.,"service,food","positive,positive",4
+R0631,"Average cleanliness, nothing concerning. Terrible service. The waiter was rude and inattentive.","cleanliness,service","neutral,negative",2
+R0632,Worst salad I've ever eaten. Very disappointing. Love the decor and lighting. Very pleasant environment.,"food,ambiance","negative,positive",3
+R0633,Excellent prices for the quality you get.,price,positive,4
+R0634,"Standard restaurant food. The pizza was just fine. Standard pricing, what you'd expect.","food,price","neutral,neutral",3
+R0635,Worst steak I've ever eaten. Very disappointing.,food,negative,1
+R0636,Very reasonable pricing. Good bang for your buck. Overcooked and tasteless. The pizza was inedible.,"price,food","positive,negative",3
+R0637,Excellent service! The staff was very attentive and friendly. Stunning interior design. Very comfortable setting.,"service,ambiance","positive,positive",5
+R0638,"Excellent hygiene standards. Very well maintained. Standard ambiance, neither good nor bad.","cleanliness,ambiance","positive,neutral",4
+R0639,Pristine conditions. Bathrooms were immaculate.,cleanliness,positive,5
+R0640,Way too expensive for what you get. Overpriced.,price,negative,2
+R0641,Stunning interior design. Very comfortable setting. Dirty tables and floors. Very unhygienic.,"ambiance,cleanliness","positive,negative",3
+R0642,The atmosphere was warm and inviting. Great music too. Sparkling clean. You can tell they take cleanliness seriously.,"ambiance,cleanliness","positive,positive",4
+R0643,"Awful atmosphere. Dark, dirty, and uncomfortable. Impeccably clean environment. Very hygienic.","ambiance,cleanliness","negative,positive",3
+R0644,Outstanding customer service. Our waiter was amazing.,service,positive,5
+R0645,Beautiful atmosphere! The restaurant has a cozy and romantic ambiance.,ambiance,positive,5
+R0646,Very clean restaurant. Everything was spotless.,cleanliness,positive,4
+R0647,Poor cleanliness. The bathroom was disgusting. Great value for money! Very affordable prices.,"cleanliness,price","negative,positive",3
+R0648,Way too expensive for what you get. Overpriced. Stunning interior design. Very comfortable setting.,"price,ambiance","negative,positive",3
+R0649,"Great deals and fair prices. Wonderful ambiance, perfect for a date night.","price,ambiance","positive,positive",5
+R0650,Food was not fresh at all. The risotto made me sick. The atmosphere was warm and inviting. Great music too.,"food,ambiance","negative,positive",3
+R0651,"Superb taste! The pasta was fresh and flavorful. Wonderful ambiance, perfect for a date night. Ridiculously overpriced. Poor value for money.","food,ambiance,price","positive,positive,negative",4
+R0652,Love the decor and lighting. Very pleasant environment.,ambiance,positive,5
+R0653,Poor customer service. Staff was unprofessional. Affordable and worth every penny.,"service,price","negative,positive",3
+R0654,"Poor ambiance. The place felt cramped and stuffy. Superb taste! The seafood was fresh and flavorful. Standard service, nothing to complain about.","ambiance,food,service","negative,positive,neutral",3
+R0655,"The service was impeccable, quick and professional. Very dirty restaurant. Health code violations visible.","service,cleanliness","positive,negative",3
+R0656,Standard restaurant food. The seafood was just fine.,food,neutral,3
+R0657,The atmosphere was warm and inviting. Great music too. Very dirty restaurant. Health code violations visible.,"ambiance,cleanliness","positive,negative",3
+R0658,Great service throughout our meal. Very welcoming. Stunning interior design. Very comfortable setting. Standard restaurant food. The risotto was just fine.,"service,ambiance,food","positive,positive,neutral",5
+R0659,Stunning interior design. Very comfortable setting.,ambiance,positive,5
+R0660,Excellent prices for the quality you get. Excellent hygiene standards. Very well maintained.,"price,cleanliness","positive,positive",5
+R0661,"Rude staff and long wait times. Very frustrating. Average atmosphere, nothing special about the decor. Impeccably clean environment. Very hygienic.","service,ambiance,cleanliness","negative,neutral,positive",3
+R0662,"The food was okay, nothing special about the seafood. Sparkling clean. You can tell they take cleanliness seriously.","food,cleanliness","neutral,positive",5
+R0663,Great value for money! Very affordable prices. The food was absolutely delicious! burger highly recommend the I.,"price,food","positive,positive",5
+R0664,Outstanding food quality. The salad dish was phenomenal. Excellent prices for the quality you get.,"food,price","positive,positive",5
+R0665,Very slow service. We waited 45 minutes for our order. Poor cleanliness. The bathroom was disgusting.,"service,cleanliness","negative,negative",1
+R0666,"Outstanding customer service. Our waiter was amazing. Reasonably clean, met basic standards.","service,cleanliness","positive,neutral",5
+R0667,"Standard pricing, what you'd expect. Superb taste! The seafood was fresh and flavorful.","price,food","neutral,positive",5
+R0668,"Poor quality ingredients. My pasta tasted terrible. Cleanliness was acceptable, standard level. Stunning interior design. Very comfortable setting.","food,cleanliness,ambiance","negative,neutral,positive",3
+R0669,Sparkling clean. You can tell they take cleanliness seriously. Outstanding food quality. The risotto dish was phenomenal.,"cleanliness,food","positive,positive",5
+R0670,"Too pricey for mediocre food. Wonderful staff, very accommodating and helpful.","price,service","negative,positive",3
+R0671,"Pristine conditions. Bathrooms were immaculate. Service was okay, nothing exceptional. Amazing cuisine, the pasta was cooked to perfection.","cleanliness,service,food","positive,neutral,positive",4
+R0672,"Standard ambiance, neither good nor bad. The food was absolutely delicious! salad highly recommend the I. Standard pricing, what you'd expect.","ambiance,food,price","neutral,positive,neutral",4
+R0673,The atmosphere was warm and inviting. Great music too.,ambiance,positive,5
+R0674,Very clean restaurant. Everything was spotless. Best pasta I've ever had. The flavors were incredible.,"cleanliness,food","positive,positive",5
+R0675,Affordable and worth every penny.,price,positive,5
+R0676,Worst risotto I've ever eaten. Very disappointing. Beautiful atmosphere! The restaurant has a cozy and romantic ambiance. Excellent service! The staff was very attentive and friendly.,"food,ambiance,service","negative,positive,positive",5
+R0677,Great deals and fair prices.,price,positive,5
+R0678,"Wonderful ambiance, perfect for a date night.",ambiance,positive,4
+R0679,"Standard ambiance, neither good nor bad. Outstanding customer service. Our waiter was amazing.","ambiance,service","neutral,positive",5
+R0680,Sparkling clean. You can tell they take cleanliness seriously. Rude staff and long wait times. Very frustrating.,"cleanliness,service","positive,negative",3
+R0681,Affordable and worth every penny. Outstanding food quality. The burger dish was phenomenal. The atmosphere was warm and inviting. Great music too.,"price,food,ambiance","positive,positive,positive",5
+R0682,Very clean restaurant. Everything was spotless.,cleanliness,positive,5
+R0683,Worst service ever. They forgot our order twice.,service,negative,1
+R0684,Very dirty restaurant. Health code violations visible.,cleanliness,negative,2
+R0685,"Wonderful ambiance, perfect for a date night.",ambiance,positive,4
+R0686,"Amazing cuisine, the steak was cooked to perfection.",food,positive,4
+R0687,Poor ambiance. The place felt cramped and stuffy. Best seafood I've ever had. The flavors were incredible.,"ambiance,food","negative,positive",3
+R0688,Prices are average for this type of restaurant. Sparkling clean. You can tell they take cleanliness seriously.,"price,cleanliness","neutral,positive",5
+R0689,The atmosphere was warm and inviting. Great music too. Outstanding food quality. The seafood dish was phenomenal.,"ambiance,food","positive,positive",5
+R0690,Not worth the price at all. Very expensive. Sparkling clean. You can tell they take cleanliness seriously.,"price,cleanliness","negative,positive",3
+R0691,The food was disappointing. The salad was cold and bland. Great value for money! Very affordable prices.,"food,price","negative,positive",3
+R0692,"Very slow service. We waited 45 minutes for our order. Amazing cuisine, the steak was cooked to perfection.","service,food","negative,positive",3
+R0693,Poor quality ingredients. My steak tasted terrible.,food,negative,2
+R0694,Great value for money! Very affordable prices. Very slow service. We waited 45 minutes for our order.,"price,service","positive,negative",3
+R0695,Love the decor and lighting. Very pleasant environment.,ambiance,positive,4
+R0696,Overcooked and tasteless. The steak was inedible. Stunning interior design. Very comfortable setting.,"food,ambiance","negative,positive",3
+R0697,Great deals and fair prices.,price,positive,5
+R0698,"Service was okay, nothing exceptional. Affordable and worth every penny.","service,price","neutral,positive",4
+R0699,Worst service ever. They forgot our order twice. Food was not fresh at all. The seafood made me sick. Prices are average for this type of restaurant.,"service,food,price","negative,negative,neutral",1
+R0700,Stunning interior design. Very comfortable setting. Superb taste! The pizza was fresh and flavorful.,"ambiance,food","positive,positive",5
+R0701,"Wonderful ambiance, perfect for a date night. Superb taste! The pizza was fresh and flavorful. Fair prices, nothing remarkable.","ambiance,food,price","positive,positive,neutral",5
+R0702,Beautiful atmosphere! The restaurant has a cozy and romantic ambiance. Impeccably clean environment. Very hygienic.,"ambiance,cleanliness","positive,positive",5
+R0703,Outstanding food quality. The pasta dish was phenomenal. Bad lighting and uncomfortable seating. Not pleasant.,"food,ambiance","positive,negative",3
+R0704,Love the decor and lighting. Very pleasant environment. Very dirty restaurant. Health code violations visible.,"ambiance,cleanliness","positive,negative",3
+R0705,Affordable and worth every penny. The food was disappointing. The burger was cold and bland. Outstanding customer service. Our waiter was amazing.,"price,food,service","positive,negative,positive",5
+R0706,Rude staff and long wait times. Very frustrating. Sparkling clean. You can tell they take cleanliness seriously.,"service,cleanliness","negative,positive",3
+R0707,Excellent hygiene standards. Very well maintained. Overcooked and tasteless. The burger was inedible.,"cleanliness,food","positive,negative",3
+R0708,Pristine conditions. Bathrooms were immaculate. Bad lighting and uncomfortable seating. Not pleasant.,"cleanliness,ambiance","positive,negative",3
+R0709,Superb taste! The salad was fresh and flavorful. Poor cleanliness. The bathroom was disgusting. Great value for money! Very affordable prices.,"food,cleanliness,price","positive,negative,positive",5
+R0710,Dirty tables and floors. Very unhygienic. Best seafood I've ever had. The flavors were incredible. Great value for money! Very affordable prices.,"cleanliness,food,price","negative,positive,positive",5
+R0711,Food was not fresh at all. The risotto made me sick. Great service throughout our meal. Very welcoming.,"food,service","negative,positive",3
+R0712,"Average atmosphere, nothing special about the decor. Superb taste! The pasta was fresh and flavorful. Very clean restaurant. Everything was spotless.","ambiance,food,cleanliness","neutral,positive,positive",5
+R0713,Terrible hygiene. The place was filthy. Stunning interior design. Very comfortable setting.,"cleanliness,ambiance","negative,positive",3
+R0714,Sparkling clean. You can tell they take cleanliness seriously.,cleanliness,positive,5
+R0715,Not worth the price at all. Very expensive. Pristine conditions. Bathrooms were immaculate. Excellent service! The staff was very attentive and friendly.,"price,cleanliness,service","negative,positive,positive",5
+R0716,Great deals and fair prices.,price,positive,5
+R0717,The food was absolutely delicious! seafood highly recommend the I.,food,positive,5
+R0718,Beautiful atmosphere! The restaurant has a cozy and romantic ambiance. Worst service ever. They forgot our order twice.,"ambiance,service","positive,negative",3
+R0719,"The service was impeccable, quick and professional.",service,positive,4
+R0720,Great deals and fair prices.,price,positive,5
+R0721,Very clean restaurant. Everything was spotless.,cleanliness,positive,5
+R0722,Stunning interior design. Very comfortable setting. Great deals and fair prices.,"ambiance,price","positive,positive",5
+R0723,The atmosphere was warm and inviting. Great music too. The food was disappointing. The steak was cold and bland.,"ambiance,food","positive,negative",3
+R0724,"Wonderful ambiance, perfect for a date night. Sparkling clean. You can tell they take cleanliness seriously. Great service throughout our meal. Very welcoming.","ambiance,cleanliness,service","positive,positive,positive",4
+R0725,Excellent service! The staff was very attentive and friendly.,service,positive,5
+R0726,"Excellent hygiene standards. Very well maintained. Amazing cuisine, the seafood was cooked to perfection. Standard pricing, what you'd expect.","cleanliness,food,price","positive,positive,neutral",5
+R0727,Rude staff and long wait times. Very frustrating.,service,negative,2
+R0728,"The ambiance was okay, typical restaurant setting.",ambiance,neutral,3
+R0729,The food was absolutely delicious! pizza highly recommend the I. Impeccably clean environment. Very hygienic.,"food,cleanliness","positive,positive",4
+R0730,"Wonderful staff, very accommodating and helpful.",service,positive,5
+R0731,Stunning interior design. Very comfortable setting. Sparkling clean. You can tell they take cleanliness seriously. Worst burger I've ever eaten. Very disappointing.,"ambiance,cleanliness,food","positive,positive,negative",4
+R0732,Excellent service! The staff was very attentive and friendly. Outstanding food quality. The burger dish was phenomenal.,"service,food","positive,positive",5
+R0733,Not worth the price at all. Very expensive. Best steak I've ever had. The flavors were incredible.,"price,food","negative,positive",3
+R0734,"Wonderful staff, very accommodating and helpful. Beautiful atmosphere! The restaurant has a cozy and romantic ambiance. Amazing cuisine, the steak was cooked to perfection.","service,ambiance,food","positive,positive,positive",4
+R0735,Beautiful atmosphere! The restaurant has a cozy and romantic ambiance. Great service throughout our meal. Very welcoming. Way too expensive for what you get. Overpriced.,"ambiance,service,price","positive,positive,negative",4
+R0736,"Way too expensive for what you get. Overpriced. The service was impeccable, quick and professional.","price,service","negative,positive",3
+R0737,"Superb taste! The pizza was fresh and flavorful. Reasonably clean, met basic standards.","food,cleanliness","positive,neutral",4
+R0738,Beautiful atmosphere! The restaurant has a cozy and romantic ambiance.,ambiance,positive,5
+R0739,"The ambiance was okay, typical restaurant setting. Cleanliness was acceptable, standard level. Amazing cuisine, the salad was cooked to perfection.","ambiance,cleanliness,food","neutral,neutral,positive",5
+R0740,"Wonderful ambiance, perfect for a date night.",ambiance,positive,5
+R0741,Outstanding customer service. Our waiter was amazing. The food was absolutely delicious! salad highly recommend the I.,"service,food","positive,positive",4
+R0742,"Awful atmosphere. Dark, dirty, and uncomfortable. Amazing cuisine, the steak was cooked to perfection.","ambiance,food","negative,positive",3
+R0743,"Wonderful ambiance, perfect for a date night. Standard pricing, what you'd expect.","ambiance,price","positive,neutral",5
+R0744,Dirty tables and floors. Very unhygienic. Overcooked and tasteless. The seafood was inedible. Average service. Staff was polite but not very attentive.,"cleanliness,food,service","negative,negative,neutral",1
+R0745,Pristine conditions. Bathrooms were immaculate.,cleanliness,positive,5
+R0746,Very clean restaurant. Everything was spotless. Ridiculously overpriced. Poor value for money.,"cleanliness,price","positive,negative",3
+R0747,Overcooked and tasteless. The burger was inedible. Outstanding customer service. Our waiter was amazing.,"food,service","negative,positive",3
+R0748,Terrible service. The waiter was rude and inattentive.,service,negative,1
+R0749,Bad lighting and uncomfortable seating. Not pleasant. Impeccably clean environment. Very hygienic. Superb taste! The salad was fresh and flavorful.,"ambiance,cleanliness,food","negative,positive,positive",5
+R0750,Very dirty restaurant. Health code violations visible. Average taste. The pasta was acceptable but not memorable.,"cleanliness,food","negative,neutral",1
+R0751,The food was absolutely delicious! salad highly recommend the I.,food,positive,4
+R0752,"Amazing cuisine, the seafood was cooked to perfection. Average atmosphere, nothing special about the decor.","food,ambiance","positive,neutral",5
+R0753,Impeccably clean environment. Very hygienic.,cleanliness,positive,5
+R0754,"Average cleanliness, nothing concerning.",cleanliness,neutral,3
+R0755,The food was disappointing. The steak was cold and bland. Great value for money! Very affordable prices.,"food,price","negative,positive",3
+R0756,Rude staff and long wait times. Very frustrating.,service,negative,2
+R0757,Great deals and fair prices.,price,positive,5
+R0758,Best burger I've ever had. The flavors were incredible.,food,positive,4
+R0759,"Fair prices, nothing remarkable.",price,neutral,3
+R0760,Great deals and fair prices. The food was absolutely delicious! pasta highly recommend the I.,"price,food","positive,positive",4
+R0761,Beautiful atmosphere! The restaurant has a cozy and romantic ambiance. Excellent prices for the quality you get.,"ambiance,price","positive,positive",4
+R0762,"Average service. Staff was polite but not very attentive. Standard ambiance, neither good nor bad.","service,ambiance","neutral,neutral",3
+R0763,"The service was impeccable, quick and professional. Beautiful atmosphere! The restaurant has a cozy and romantic ambiance.","service,ambiance","positive,positive",4
+R0764,Outstanding customer service. Our waiter was amazing. Overcooked and tasteless. The steak was inedible.,"service,food","positive,negative",3
+R0765,"The ambiance was okay, typical restaurant setting.",ambiance,neutral,3
+R0766,Love the decor and lighting. Very pleasant environment. The food was absolutely delicious! steak highly recommend the I.,"ambiance,food","positive,positive",5
+R0767,Average service. Staff was polite but not very attentive.,service,neutral,3
+R0768,Extremely expensive. Not worth it.,price,negative,2
+R0769,Excellent hygiene standards. Very well maintained.,cleanliness,positive,4
+R0770,"Standard pricing, what you'd expect.",price,neutral,3
+R0771,Stunning interior design. Very comfortable setting.,ambiance,positive,5
+R0772,Excellent service! The staff was very attentive and friendly. Poor cleanliness. The bathroom was disgusting. The atmosphere was warm and inviting. Great music too.,"service,cleanliness,ambiance","positive,negative,positive",5
+R0773,Superb taste! The burger was fresh and flavorful.,food,positive,5
+R0774,Outstanding customer service. Our waiter was amazing.,service,positive,5
+R0775,Great value for money! Very affordable prices. Very slow service. We waited 45 minutes for our order.,"price,service","positive,negative",3
+R0776,"Very reasonable pricing. Good bang for your buck. Awful atmosphere. Dark, dirty, and uncomfortable.","price,ambiance","positive,negative",3
+R0777,Standard restaurant food. The pizza was just fine. Beautiful atmosphere! The restaurant has a cozy and romantic ambiance.,"food,ambiance","neutral,positive",4
+R0778,Superb taste! The pizza was fresh and flavorful. Beautiful atmosphere! The restaurant has a cozy and romantic ambiance.,"food,ambiance","positive,positive",4
+R0779,"Impeccably clean environment. Very hygienic. The service was impeccable, quick and professional.","cleanliness,service","positive,positive",5
+R0780,Bad lighting and uncomfortable seating. Not pleasant.,ambiance,negative,2
+R0781,Very clean restaurant. Everything was spotless.,cleanliness,positive,5
+R0782,"Cleanliness was acceptable, standard level.",cleanliness,neutral,3
+R0783,"The food was okay, nothing special about the salad. The atmosphere was warm and inviting. Great music too.","food,ambiance","neutral,positive",5
+R0784,"Standard service, nothing to complain about. Food was not fresh at all. The burger made me sick.","service,food","neutral,negative",1
+R0785,Poor customer service. Staff was unprofessional.,service,negative,1
+R0786,Best pizza I've ever had. The flavors were incredible.,food,positive,5
+R0787,Poor cleanliness. The bathroom was disgusting. Excellent prices for the quality you get.,"cleanliness,price","negative,positive",3
+R0788,"Superb taste! The seafood was fresh and flavorful. Wonderful staff, very accommodating and helpful.","food,service","positive,positive",5
+R0789,Very dirty restaurant. Health code violations visible.,cleanliness,negative,1
+R0790,Very clean restaurant. Everything was spotless. Very reasonable pricing. Good bang for your buck.,"cleanliness,price","positive,positive",4
+R0791,"The service was impeccable, quick and professional.",service,positive,4
+R0792,"Impeccably clean environment. Very hygienic. Wonderful staff, very accommodating and helpful. The food was absolutely delicious! burger highly recommend the I.","cleanliness,service,food","positive,positive,positive",5
+R0793,Poor cleanliness. The bathroom was disgusting.,cleanliness,negative,2
+R0794,Affordable and worth every penny.,price,positive,4
+R0795,"Poor cleanliness. The bathroom was disgusting. Amazing cuisine, the burger was cooked to perfection. Excellent prices for the quality you get.","cleanliness,food,price","negative,positive,positive",5
+R0796,Very slow service. We waited 45 minutes for our order. Excellent hygiene standards. Very well maintained.,"service,cleanliness","negative,positive",3
+R0797,Impeccably clean environment. Very hygienic. Outstanding food quality. The pizza dish was phenomenal.,"cleanliness,food","positive,positive",5
+R0798,"Excellent hygiene standards. Very well maintained. Standard service, nothing to complain about.","cleanliness,service","positive,neutral",5
+R0799,Average service. Staff was polite but not very attentive. Best pizza I've ever had. The flavors were incredible.,"service,food","neutral,positive",5
+R0800,"The atmosphere was warm and inviting. Great music too. The service was impeccable, quick and professional.","ambiance,service","positive,positive",4
+R0801,"The food was disappointing. The pizza was cold and bland. The service was impeccable, quick and professional.","food,service","negative,positive",3
+R0802,Standard restaurant food. The steak was just fine.,food,neutral,3
+R0803,Average taste. The risotto was acceptable but not memorable. Excellent prices for the quality you get.,"food,price","neutral,positive",5
+R0804,"Impeccably clean environment. Very hygienic. The service was impeccable, quick and professional.","cleanliness,service","positive,positive",4
+R0805,"Standard pricing, what you'd expect. Wonderful ambiance, perfect for a date night.","price,ambiance","neutral,positive",5
+R0806,"Excellent hygiene standards. Very well maintained. Wonderful ambiance, perfect for a date night.","cleanliness,ambiance","positive,positive",5
+R0807,Great deals and fair prices.,price,positive,5
+R0808,"Wonderful staff, very accommodating and helpful. Very dirty restaurant. Health code violations visible.","service,cleanliness","positive,negative",3
+R0809,Great service throughout our meal. Very welcoming.,service,positive,4
+R0810,Outstanding customer service. Our waiter was amazing. Dirty tables and floors. Very unhygienic.,"service,cleanliness","positive,negative",3
+R0811,Pristine conditions. Bathrooms were immaculate. The atmosphere was warm and inviting. Great music too.,"cleanliness,ambiance","positive,positive",5
+R0812,"Reasonably clean, met basic standards.",cleanliness,neutral,3
+R0813,The food was absolutely delicious! pizza highly recommend the I. Poor customer service. Staff was unprofessional.,"food,service","positive,negative",3
+R0814,"Amazing cuisine, the pasta was cooked to perfection.",food,positive,5
+R0815,"Stunning interior design. Very comfortable setting. Wonderful staff, very accommodating and helpful. Very clean restaurant. Everything was spotless.","ambiance,service,cleanliness","positive,positive,positive",5
+R0816,Great deals and fair prices. Impeccably clean environment. Very hygienic.,"price,cleanliness","positive,positive",5
+R0817,"Poor customer service. Staff was unprofessional. Fair prices, nothing remarkable. Love the decor and lighting. Very pleasant environment.","service,price,ambiance","negative,neutral,positive",3
+R0818,Very slow service. We waited 45 minutes for our order. Pristine conditions. Bathrooms were immaculate.,"service,cleanliness","negative,positive",3
+R0819,Impeccably clean environment. Very hygienic. Beautiful atmosphere! The restaurant has a cozy and romantic ambiance.,"cleanliness,ambiance","positive,positive",5
+R0820,The atmosphere was warm and inviting. Great music too. Excellent service! The staff was very attentive and friendly.,"ambiance,service","positive,positive",4
+R0821,Very slow service. We waited 45 minutes for our order. Poor ambiance. The place felt cramped and stuffy.,"service,ambiance","negative,negative",1
+R0822,Beautiful atmosphere! The restaurant has a cozy and romantic ambiance.,ambiance,positive,4
+R0823,Pristine conditions. Bathrooms were immaculate. Way too expensive for what you get. Overpriced.,"cleanliness,price","positive,negative",3
+R0824,"Overcooked and tasteless. The salad was inedible. Stunning interior design. Very comfortable setting. The service was impeccable, quick and professional.","food,ambiance,service","negative,positive,positive",5
+R0825,"The food was okay, nothing special about the burger. Very clean restaurant. Everything was spotless.","food,cleanliness","neutral,positive",5
+R0826,The ambiance was terrible. Too noisy and crowded.,ambiance,negative,2
+R0827,Very clean restaurant. Everything was spotless. Not worth the price at all. Very expensive.,"cleanliness,price","positive,negative",3
+R0828,"Cleanliness was acceptable, standard level. Too pricey for mediocre food.","cleanliness,price","neutral,negative",1
+R0829,Excellent prices for the quality you get. Pristine conditions. Bathrooms were immaculate.,"price,cleanliness","positive,positive",5
+R0830,Beautiful atmosphere! The restaurant has a cozy and romantic ambiance. Impeccably clean environment. Very hygienic.,"ambiance,cleanliness","positive,positive",4
+R0831,"Dirty tables and floors. Very unhygienic. Standard service, nothing to complain about.","cleanliness,service","negative,neutral",1
+R0832,"Very slow service. We waited 45 minutes for our order. The ambiance was okay, typical restaurant setting.","service,ambiance","negative,neutral",2
+R0833,The ambiance was terrible. Too noisy and crowded. Outstanding food quality. The steak dish was phenomenal.,"ambiance,food","negative,positive",3
+R0834,"Service was okay, nothing exceptional. Best seafood I've ever had. The flavors were incredible.","service,food","neutral,positive",5
+R0835,"The ambiance was okay, typical restaurant setting. Great value for money! Very affordable prices. Pristine conditions. Bathrooms were immaculate.","ambiance,price,cleanliness","neutral,positive,positive",5
+R0836,Worst risotto I've ever eaten. Very disappointing. Very clean restaurant. Everything was spotless.,"food,cleanliness","negative,positive",3
+R0837,Not clean at all. Found hair in my food.,cleanliness,negative,1
+R0838,Pristine conditions. Bathrooms were immaculate. Great service throughout our meal. Very welcoming.,"cleanliness,service","positive,positive",4
+R0839,Great deals and fair prices. The atmosphere was warm and inviting. Great music too. Impeccably clean environment. Very hygienic.,"price,ambiance,cleanliness","positive,positive,positive",5
+R0840,"Very dirty restaurant. Health code violations visible. Average atmosphere, nothing special about the decor.","cleanliness,ambiance","negative,neutral",2
+R0841,Very slow service. We waited 45 minutes for our order.,service,negative,2
+R0842,Beautiful atmosphere! The restaurant has a cozy and romantic ambiance.,ambiance,positive,4
+R0843,Not clean at all. Found hair in my food.,cleanliness,negative,2
+R0844,Excellent service! The staff was very attentive and friendly. The atmosphere was warm and inviting. Great music too.,"service,ambiance","positive,positive",4
+R0845,Poor ambiance. The place felt cramped and stuffy. Standard restaurant food. The seafood was just fine.,"ambiance,food","negative,neutral",2
+R0846,Beautiful atmosphere! The restaurant has a cozy and romantic ambiance. Great deals and fair prices.,"ambiance,price","positive,positive",5
+R0847,The atmosphere was warm and inviting. Great music too.,ambiance,positive,5
+R0848,Overcooked and tasteless. The salad was inedible.,food,negative,1
+R0849,Great deals and fair prices. The atmosphere was warm and inviting. Great music too.,"price,ambiance","positive,positive",5
+R0850,Very reasonable pricing. Good bang for your buck.,price,positive,5
+R0851,Not worth the price at all. Very expensive. The food was absolutely delicious! pizza highly recommend the I. Love the decor and lighting. Very pleasant environment.,"price,food,ambiance","negative,positive,positive",5
+R0852,Very clean restaurant. Everything was spotless.,cleanliness,positive,5
+R0853,Affordable and worth every penny. Very slow service. We waited 45 minutes for our order.,"price,service","positive,negative",3
+R0854,Sparkling clean. You can tell they take cleanliness seriously. Stunning interior design. Very comfortable setting.,"cleanliness,ambiance","positive,positive",5
+R0855,Overcooked and tasteless. The steak was inedible. Stunning interior design. Very comfortable setting.,"food,ambiance","negative,positive",3
+R0856,Best steak I've ever had. The flavors were incredible. Very reasonable pricing. Good bang for your buck.,"food,price","positive,positive",5
+R0857,"The food was disappointing. The risotto was cold and bland. Awful atmosphere. Dark, dirty, and uncomfortable.","food,ambiance","negative,negative",1
+R0858,Very clean restaurant. Everything was spotless.,cleanliness,positive,5
+R0859,Excellent hygiene standards. Very well maintained.,cleanliness,positive,5
+R0860,"Impeccably clean environment. Very hygienic. Very reasonable pricing. Good bang for your buck. Wonderful ambiance, perfect for a date night.","cleanliness,price,ambiance","positive,positive,positive",5
+R0861,The food was absolutely delicious! pizza highly recommend the I.,food,positive,5
+R0862,Affordable and worth every penny. Very dirty restaurant. Health code violations visible.,"price,cleanliness","positive,negative",3
+R0863,Prices are average for this type of restaurant. Dirty tables and floors. Very unhygienic. Beautiful atmosphere! The restaurant has a cozy and romantic ambiance.,"price,cleanliness,ambiance","neutral,negative,positive",3
+R0864,"Wonderful ambiance, perfect for a date night. Great value for money! Very affordable prices. Very clean restaurant. Everything was spotless.","ambiance,price,cleanliness","positive,positive,positive",5
+R0865,Outstanding customer service. Our waiter was amazing.,service,positive,5
+R0866,Excellent prices for the quality you get.,price,positive,5
+R0867,"Wonderful staff, very accommodating and helpful. The atmosphere was warm and inviting. Great music too. Food was not fresh at all. The steak made me sick.","service,ambiance,food","positive,positive,negative",4
+R0868,"Amazing cuisine, the pasta was cooked to perfection. Great value for money! Very affordable prices.","food,price","positive,positive",5
+R0869,"Average cleanliness, nothing concerning.",cleanliness,neutral,3
+R0870,Great value for money! Very affordable prices. Impeccably clean environment. Very hygienic. The food was absolutely delicious! salad highly recommend the I.,"price,cleanliness,food","positive,positive,positive",5
+R0871,Pristine conditions. Bathrooms were immaculate. Poor customer service. Staff was unprofessional.,"cleanliness,service","positive,negative",3
+R0872,Extremely expensive. Not worth it. Great service throughout our meal. Very welcoming.,"price,service","negative,positive",3
+R0873,Affordable and worth every penny.,price,positive,5
+R0874,"Poor cleanliness. The bathroom was disgusting. Standard pricing, what you'd expect. Very slow service. We waited 45 minutes for our order.","cleanliness,price,service","negative,neutral,negative",2
+R0875,Excellent hygiene standards. Very well maintained.,cleanliness,positive,4
+R0876,"Wonderful ambiance, perfect for a date night. Ridiculously overpriced. Poor value for money.","ambiance,price","positive,negative",3
+R0877,Love the decor and lighting. Very pleasant environment. Very reasonable pricing. Good bang for your buck. Food was not fresh at all. The risotto made me sick.,"ambiance,price,food","positive,positive,negative",5
+R0878,Not clean at all. Found hair in my food.,cleanliness,negative,1
+R0879,"Reasonably clean, met basic standards. The food was absolutely delicious! steak highly recommend the I.","cleanliness,food","neutral,positive",5
+R0880,Outstanding customer service. Our waiter was amazing.,service,positive,5
+R0881,Very slow service. We waited 45 minutes for our order. Dirty tables and floors. Very unhygienic. Excellent prices for the quality you get.,"service,cleanliness,price","negative,negative,positive",1
+R0882,Excellent hygiene standards. Very well maintained. Affordable and worth every penny.,"cleanliness,price","positive,positive",5
+R0883,"Average cleanliness, nothing concerning.",cleanliness,neutral,3
+R0884,"Awful atmosphere. Dark, dirty, and uncomfortable. Not worth the price at all. Very expensive. Impeccably clean environment. Very hygienic.","ambiance,price,cleanliness","negative,negative,positive",1
+R0885,The food was absolutely delicious! burger highly recommend the I.,food,positive,5
+R0886,"Wonderful ambiance, perfect for a date night. Poor customer service. Staff was unprofessional.","ambiance,service","positive,negative",3
+R0887,Not clean at all. Found hair in my food. Outstanding food quality. The salad dish was phenomenal.,"cleanliness,food","negative,positive",3
+R0888,Bad lighting and uncomfortable seating. Not pleasant. Very slow service. We waited 45 minutes for our order.,"ambiance,service","negative,negative",1
+R0889,"The food was okay, nothing special about the risotto.",food,neutral,3
+R0890,"Amazing cuisine, the pasta was cooked to perfection. Bad lighting and uncomfortable seating. Not pleasant.","food,ambiance","positive,negative",3
+R0891,Very reasonable pricing. Good bang for your buck.,price,positive,5
+R0892,Impeccably clean environment. Very hygienic. Poor customer service. Staff was unprofessional.,"cleanliness,service","positive,negative",3
+R0893,Very reasonable pricing. Good bang for your buck. Average service. Staff was polite but not very attentive.,"price,service","positive,neutral",4
+R0894,The atmosphere was warm and inviting. Great music too.,ambiance,positive,4
+R0895,Way too expensive for what you get. Overpriced. Very clean restaurant. Everything was spotless.,"price,cleanliness","negative,positive",3
+R0896,Beautiful atmosphere! The restaurant has a cozy and romantic ambiance. Great service throughout our meal. Very welcoming.,"ambiance,service","positive,positive",5
+R0897,"The service was impeccable, quick and professional.",service,positive,4
+R0898,Prices are average for this type of restaurant. Dirty tables and floors. Very unhygienic. Best steak I've ever had. The flavors were incredible.,"price,cleanliness,food","neutral,negative,positive",3
+R0899,Great service throughout our meal. Very welcoming. Sparkling clean. You can tell they take cleanliness seriously. Great value for money! Very affordable prices.,"service,cleanliness,price","positive,positive,positive",5
+R0900,Dirty tables and floors. Very unhygienic.,cleanliness,negative,2
+R0901,Not clean at all. Found hair in my food.,cleanliness,negative,2
+R0902,"The food was okay, nothing special about the salad. Excellent service! The staff was very attentive and friendly.","food,service","neutral,positive",4
+R0903,"Standard pricing, what you'd expect. Great service throughout our meal. Very welcoming.","price,service","neutral,positive",5
+R0904,Excellent prices for the quality you get.,price,positive,5
+R0905,Beautiful atmosphere! The restaurant has a cozy and romantic ambiance. Great service throughout our meal. Very welcoming.,"ambiance,service","positive,positive",5
+R0906,Poor cleanliness. The bathroom was disgusting. Beautiful atmosphere! The restaurant has a cozy and romantic ambiance. Great value for money! Very affordable prices.,"cleanliness,ambiance,price","negative,positive,positive",5
+R0907,"Wonderful ambiance, perfect for a date night. Amazing cuisine, the steak was cooked to perfection.","ambiance,food","positive,positive",5
+R0908,Impeccably clean environment. Very hygienic. The food was absolutely delicious! pasta highly recommend the I.,"cleanliness,food","positive,positive",5
+R0909,Pristine conditions. Bathrooms were immaculate.,cleanliness,positive,4
+R0910,Outstanding food quality. The pasta dish was phenomenal. Prices are average for this type of restaurant.,"food,price","positive,neutral",4
+R0911,The ambiance was terrible. Too noisy and crowded. Prices are average for this type of restaurant.,"ambiance,price","negative,neutral",2
+R0912,Outstanding customer service. Our waiter was amazing. Superb taste! The seafood was fresh and flavorful. Very dirty restaurant. Health code violations visible.,"service,food,cleanliness","positive,positive,negative",5
+R0913,Beautiful atmosphere! The restaurant has a cozy and romantic ambiance. Great service throughout our meal. Very welcoming.,"ambiance,service","positive,positive",5
+R0914,"Amazing cuisine, the burger was cooked to perfection. The ambiance was terrible. Too noisy and crowded. Outstanding customer service. Our waiter was amazing.","food,ambiance,service","positive,negative,positive",5
+R0915,"Amazing cuisine, the steak was cooked to perfection.",food,positive,5
+R0916,Bad lighting and uncomfortable seating. Not pleasant. Too pricey for mediocre food.,"ambiance,price","negative,negative",1
+R0917,The ambiance was terrible. Too noisy and crowded. Great service throughout our meal. Very welcoming.,"ambiance,service","negative,positive",3
+R0918,"Way too expensive for what you get. Overpriced. Amazing cuisine, the burger was cooked to perfection. Wonderful staff, very accommodating and helpful.","price,food,service","negative,positive,positive",5
+R0919,Not worth the price at all. Very expensive. Great service throughout our meal. Very welcoming.,"price,service","negative,positive",3
+R0920,"Outstanding customer service. Our waiter was amazing. Standard pricing, what you'd expect. Food was not fresh at all. The salad made me sick.","service,price,food","positive,neutral,negative",3
+R0921,"Wonderful staff, very accommodating and helpful. Wonderful ambiance, perfect for a date night.","service,ambiance","positive,positive",5
+R0922,Very clean restaurant. Everything was spotless. The ambiance was terrible. Too noisy and crowded.,"cleanliness,ambiance","positive,negative",3
+R0923,Very slow service. We waited 45 minutes for our order.,service,negative,2
+R0924,"Average atmosphere, nothing special about the decor. Best seafood I've ever had. The flavors were incredible.","ambiance,food","neutral,positive",5
+R0925,Great value for money! Very affordable prices. Not clean at all. Found hair in my food. Beautiful atmosphere! The restaurant has a cozy and romantic ambiance.,"price,cleanliness,ambiance","positive,negative,positive",5
+R0926,"Great deals and fair prices. Cleanliness was acceptable, standard level. Worst service ever. They forgot our order twice.","price,cleanliness,service","positive,neutral,negative",3
+R0927,Poor cleanliness. The bathroom was disgusting. Affordable and worth every penny.,"cleanliness,price","negative,positive",3
+R0928,"Poor quality ingredients. My burger tasted terrible. Fair prices, nothing remarkable.","food,price","negative,neutral",1
+R0929,Love the decor and lighting. Very pleasant environment. Outstanding food quality. The risotto dish was phenomenal.,"ambiance,food","positive,positive",5
+R0930,"Amazing cuisine, the risotto was cooked to perfection. Very reasonable pricing. Good bang for your buck. Very clean restaurant. Everything was spotless.","food,price,cleanliness","positive,positive,positive",5
+R0931,"Amazing cuisine, the risotto was cooked to perfection.",food,positive,4
+R0932,Worst salad I've ever eaten. Very disappointing.,food,negative,2
+R0933,The atmosphere was warm and inviting. Great music too. Way too expensive for what you get. Overpriced. Very clean restaurant. Everything was spotless.,"ambiance,price,cleanliness","positive,negative,positive",5
+R0934,Beautiful atmosphere! The restaurant has a cozy and romantic ambiance. Excellent service! The staff was very attentive and friendly. Excellent hygiene standards. Very well maintained.,"ambiance,service,cleanliness","positive,positive,positive",5
+R0935,Way too expensive for what you get. Overpriced. Sparkling clean. You can tell they take cleanliness seriously.,"price,cleanliness","negative,positive",3
+R0936,"Awful atmosphere. Dark, dirty, and uncomfortable. Poor cleanliness. The bathroom was disgusting.","ambiance,cleanliness","negative,negative",1
+R0937,"Great service throughout our meal. Very welcoming. Average cleanliness, nothing concerning.","service,cleanliness","positive,neutral",4
+R0938,Stunning interior design. Very comfortable setting. Very reasonable pricing. Good bang for your buck.,"ambiance,price","positive,positive",4
+R0939,The food was absolutely delicious! steak highly recommend the I.,food,positive,5
+R0940,The food was absolutely delicious! seafood highly recommend the I. Affordable and worth every penny.,"food,price","positive,positive",5
+R0941,Great deals and fair prices. Poor customer service. Staff was unprofessional.,"price,service","positive,negative",3
+R0942,"Very reasonable pricing. Good bang for your buck. Service was okay, nothing exceptional.","price,service","positive,neutral",5
+R0943,Great service throughout our meal. Very welcoming. Impeccably clean environment. Very hygienic.,"service,cleanliness","positive,positive",5
+R0944,"Amazing cuisine, the risotto was cooked to perfection.",food,positive,4
+R0945,Ridiculously overpriced. Poor value for money.,price,negative,1
+R0946,Ridiculously overpriced. Poor value for money.,price,negative,1
+R0947,Extremely expensive. Not worth it. Sparkling clean. You can tell they take cleanliness seriously. Poor customer service. Staff was unprofessional.,"price,cleanliness,service","negative,positive,negative",1
+R0948,Terrible hygiene. The place was filthy.,cleanliness,negative,1
+R0949,"The food was absolutely delicious! pasta highly recommend the I. Wonderful staff, very accommodating and helpful.","food,service","positive,positive",5
+R0950,Affordable and worth every penny.,price,positive,4
+R0951,Sparkling clean. You can tell they take cleanliness seriously.,cleanliness,positive,5
+R0952,Excellent hygiene standards. Very well maintained. Very slow service. We waited 45 minutes for our order.,"cleanliness,service","positive,negative",3
+R0953,Very reasonable pricing. Good bang for your buck.,price,positive,5
+R0954,Worst service ever. They forgot our order twice. Love the decor and lighting. Very pleasant environment. Ridiculously overpriced. Poor value for money.,"service,ambiance,price","negative,positive,negative",2
+R0955,"Outstanding customer service. Our waiter was amazing. Wonderful ambiance, perfect for a date night.","service,ambiance","positive,positive",5
+R0956,"The food was okay, nothing special about the burger. Excellent service! The staff was very attentive and friendly.","food,service","neutral,positive",5
+R0957,Too pricey for mediocre food. Dirty tables and floors. Very unhygienic.,"price,cleanliness","negative,negative",1
+R0958,Love the decor and lighting. Very pleasant environment. Very clean restaurant. Everything was spotless.,"ambiance,cleanliness","positive,positive",5
+R0959,Stunning interior design. Very comfortable setting. The food was absolutely delicious! pizza highly recommend the I.,"ambiance,food","positive,positive",5
+R0960,"Extremely expensive. Not worth it. Wonderful staff, very accommodating and helpful. Very dirty restaurant. Health code violations visible.","price,service,cleanliness","negative,positive,negative",1
+R0961,"Impeccably clean environment. Very hygienic. Great service throughout our meal. Very welcoming. Awful atmosphere. Dark, dirty, and uncomfortable.","cleanliness,service,ambiance","positive,positive,negative",5
+R0962,Bad lighting and uncomfortable seating. Not pleasant. Excellent hygiene standards. Very well maintained.,"ambiance,cleanliness","negative,positive",3
+R0963,Poor ambiance. The place felt cramped and stuffy. Very clean restaurant. Everything was spotless.,"ambiance,cleanliness","negative,positive",3
+R0964,Not worth the price at all. Very expensive. Stunning interior design. Very comfortable setting.,"price,ambiance","negative,positive",3
+R0965,Excellent service! The staff was very attentive and friendly. Extremely expensive. Not worth it.,"service,price","positive,negative",3
+R0966,Beautiful atmosphere! The restaurant has a cozy and romantic ambiance. Overcooked and tasteless. The burger was inedible.,"ambiance,food","positive,negative",3
+R0967,Beautiful atmosphere! The restaurant has a cozy and romantic ambiance. Affordable and worth every penny.,"ambiance,price","positive,positive",5
+R0968,"Very clean restaurant. Everything was spotless. Stunning interior design. Very comfortable setting. Amazing cuisine, the burger was cooked to perfection.","cleanliness,ambiance,food","positive,positive,positive",5
+R0969,Terrible service. The waiter was rude and inattentive.,service,negative,2
+R0970,Terrible hygiene. The place was filthy.,cleanliness,negative,1
+R0971,Very clean restaurant. Everything was spotless. Poor customer service. Staff was unprofessional.,"cleanliness,service","positive,negative",3
+R0972,Beautiful atmosphere! The restaurant has a cozy and romantic ambiance. Great value for money! Very affordable prices.,"ambiance,price","positive,positive",5
+R0973,"The ambiance was okay, typical restaurant setting. Excellent prices for the quality you get.","ambiance,price","neutral,positive",5
+R0974,Excellent hygiene standards. Very well maintained.,cleanliness,positive,5
+R0975,Great value for money! Very affordable prices. Not clean at all. Found hair in my food. Great service throughout our meal. Very welcoming.,"price,cleanliness,service","positive,negative,positive",5
+R0976,"Terrible hygiene. The place was filthy. The service was impeccable, quick and professional.","cleanliness,service","negative,positive",3
+R0977,Impeccably clean environment. Very hygienic. Poor ambiance. The place felt cramped and stuffy.,"cleanliness,ambiance","positive,negative",3
+R0978,Not worth the price at all. Very expensive.,price,negative,2
+R0979,Stunning interior design. Very comfortable setting.,ambiance,positive,4
+R0980,"Love the decor and lighting. Very pleasant environment. The service was impeccable, quick and professional.","ambiance,service","positive,positive",5
+R0981,Terrible service. The waiter was rude and inattentive. Bad lighting and uncomfortable seating. Not pleasant.,"service,ambiance","negative,negative",1
+R0982,Extremely expensive. Not worth it. Great service throughout our meal. Very welcoming.,"price,service","negative,positive",3
+R0983,Worst risotto I've ever eaten. Very disappointing.,food,negative,1
+R0984,Overcooked and tasteless. The risotto was inedible.,food,negative,1
+R0985,Not worth the price at all. Very expensive.,price,negative,2
+R0986,"The service was impeccable, quick and professional.",service,positive,5
+R0987,"The service was impeccable, quick and professional. The atmosphere was warm and inviting. Great music too.","service,ambiance","positive,positive",5
+R0988,Very dirty restaurant. Health code violations visible. Outstanding food quality. The burger dish was phenomenal.,"cleanliness,food","negative,positive",3
+R0989,"The food was okay, nothing special about the risotto. Average service. Staff was polite but not very attentive.","food,service","neutral,neutral",3
+R0990,"Average cleanliness, nothing concerning. Wonderful ambiance, perfect for a date night.","cleanliness,ambiance","neutral,positive",5
+R0991,"The food was okay, nothing special about the pizza. Stunning interior design. Very comfortable setting.","food,ambiance","neutral,positive",5
+R0992,Worst pizza I've ever eaten. Very disappointing.,food,negative,2
+R0993,Stunning interior design. Very comfortable setting. Great value for money! Very affordable prices. Sparkling clean. You can tell they take cleanliness seriously.,"ambiance,price,cleanliness","positive,positive,positive",5
+R0994,The ambiance was terrible. Too noisy and crowded.,ambiance,negative,2
+R0995,"Best salad I've ever had. The flavors were incredible. Terrible service. The waiter was rude and inattentive. Wonderful ambiance, perfect for a date night.","food,service,ambiance","positive,negative,positive",4
+R0996,Excellent prices for the quality you get. Love the decor and lighting. Very pleasant environment.,"price,ambiance","positive,positive",5
+R0997,Sparkling clean. You can tell they take cleanliness seriously. Worst service ever. They forgot our order twice. Very reasonable pricing. Good bang for your buck.,"cleanliness,service,price","positive,negative,positive",5
+R0998,Excellent service! The staff was very attentive and friendly. Very reasonable pricing. Good bang for your buck.,"service,price","positive,positive",5
+R0999,The ambiance was terrible. Too noisy and crowded.,ambiance,negative,1
+R1000,Great deals and fair prices.,price,positive,5
