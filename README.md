@@ -134,9 +134,9 @@ Runtime → Run all
 
 | Notebook | GPU Requis | Durée |
 |----------|-----------|-------|
-| `Colab_01_Baseline_ML_REAL.ipynb` | ❌ Non | ~5 min |
-| `Colab_02_BiLSTM_REAL.ipynb` | ✅ Oui | ~20 min |
-| `Colab_03_BERT_REAL.ipynb` | ✅ Oui | ~30 min |
+| `01_Baseline.ipynb` | ❌ Non | ~5 min |
+| `02_BiLSTM.ipynb` | ✅ Oui | ~20 min |
+| `03_BERT.ipynb` | ✅ Oui | ~30 min |
 
 ### 4. Placer les modèles
 
